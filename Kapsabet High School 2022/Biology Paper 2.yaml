@@ -1,0 +1,224 @@
+- Question: "An investigation was carried out to study the effects of the concentration of sucrose solutions on pieces of tulip stem 44mm in length. The pieces were placed in different concentrations of sucrose solutions and measured after two hours of immersion. The results are shown in the table below."
+  Image: "assets/biology.pp2.q1.png"
+  Subquestions:
+    - Subquestion: "a. Explain the effect of the 0.2 moles per litre sucrose solution on the length of the pieces of the tulip stem."
+      Answer: "0.2 moles/l is hypotonic to the cell sap of the tulip stem cells; the cells, therefore, gained water by osmosis and increased in length."
+      Marks: 3
+    - Subquestion: "b. Use information from the table to predict the concentration of a sucrose solution isotonic to the cells in the tulip stem."
+      Answer: "0.5 moles/l"
+      Marks: 1
+    - Subquestion: "c. (i) Give the term which would be used to describe the cells in the tulip stem after immersion in a solution with a sucrose concentration of 0.7 moles per litre."
+      Answer: "Plasmolysed"
+      Marks: 1
+    - Subquestion: "c. (ii) Draw the appearance of a cell from the tulip stem after immersion in a solution with a sucrose concentration of 0.7 moles per litre."
+      Image: ""
+      Marks: 2
+    - Subquestion: "d) State one role of the process being investigated in plants."
+      Answer:
+        - "Feeding in insectivorous plants"
+        - "Absorption of water"
+        - "Opening and closing of the stomata"
+      Marks: 1
+  QuestionNumber: 1
+  Marks: 8
+  Section: A
+
+- Question: "The diagram below illustrates circulation in certain organs of the mammalian body."
+  Image: "assets/biology.pp2.q2.png"
+  Subquestions:
+    - Subquestion: "a) Identify the blood vessels represented by A, B, and C."
+      Answer:
+        - "A - Hepatic portal vein"
+        - "B - Hepatic vein"
+        - "C - Hepatic artery"
+      Marks: 3
+    - Subquestion: "b) Explain why blood from the small intestines goes to the liver before it goes to any other organ of the body."
+      Answer:
+        - "So that any toxic substances absorbed together with food nutrients from the ileum can be detoxified."
+        - "So that food substances, e.g., glucose, can be regulated. Only the required quantity of glucose is left in circulation as excess is either stored as glycogen, fat, or excess may be respired."
+        - "Excess amino acids are deaminated."
+      Marks: 3
+    - Subquestion: "c) Compare the blood in vessels B and C."
+      Answer:
+        - "B - Deoxygenated"
+        - "C - Oxygenated"
+      Marks: 1
+    - Subquestion: "d) Outline how a glucose molecule in vessel A finally reaches the heart."
+      Answer: "From the small intestines, it is transported to the liver through the hepatic portal vein. It is then transported to the heart through the hepatic vein, then the vena cava to the heart."
+      Marks: 2
+  QuestionNumber: 2
+  Marks: 9
+  Section: A
+
+- Question: "Polydactyl is a genetic disorder in which people inherit an extra digit. Polydactyl is caused by a dominant allele (B). The table below describes the different genotypes for polydactyl."
+  Subquestions:
+    - Subquestion: "a) Complete the table below by giving the correct genotype, alleles of each genotype, and the expected number of fingers per hand."
+      Image: "assets/biology.pp2.q3a.png"
+      Answer:
+        - "Genotype: Homozygous dominant"
+        - "Alleles: BB"
+        - "Expected number of digits per hand: Six"
+        - "Genotype: Homozygous recessive"
+        - "Alleles: bb"
+        - "Expected number of digits per hand: Five"
+        - "Genotype: Heterozygous"
+        - "Alleles: Bb"
+        - "Expected number of digits per hand: Six"
+      Marks: 4
+    - Subquestion: "b) The table below shows results of marriages between various parents. Complete the table by writing the probability of each marriage producing a child with polydactyl."
+      Image: "assets/biology.pp2.q3b.png"
+      Answer:
+        - "Parental genotypes: Bb X BB"
+        - "Probability of child with polydactyl: 1"
+        - "Parental genotypes: Bb X bb"
+        - "Probability of child with polydactyl: 0.5"
+        - "Parental genotypes: Bb X Bb"
+        - "Probability of child with polydactyl: 0.75"
+      Marks: 2
+  QuestionNumber: 3
+  Marks: 6
+  Section: A
+
+- Question: "Kenyan pondweed (Elodea kenyiensis) is a common water plant that produces tiny air bubbles of oxygen during photosynthesis. The number of bubbles produced per minute indicates the rate of photosynthesis. The graph shows how the rate of photosynthesis in the pondweed relates to light intensity."
+  Subquestions:
+    - Subquestion: "a) Write the equation to account for the air bubbles."
+      Answer: "Water -> Hydrogen atoms + Oxygen"
+      Marks: 1
+    - Subquestion: "b) Name the factor that affects photosynthesis at point A. Explain."
+      Answer: "Light intensity. An increase in light intensity increases the rate of photosynthesis."
+      Marks: 2
+    - Subquestion: "c) Explain why the rate of photosynthesis does not increase any further at high light intensity (point B)."
+      Answer: "Due to other limiting factors, such as carbon (IV) oxide concentration and temperature."
+      Marks: 2
+    - Subquestion: "d) Explain the role of the following in photosynthesis:"
+      Subquestions:
+        - Subquestion: "i) Chlorophyll."
+          Answer: "Trap light (for photolysis)."
+          Marks: 1
+        - Subquestion: "ii) Water."
+          Answer: "Provision of Hydrogen ions which combine with carbon (IV) oxide to form simple sugars."
+          Marks: 1
+      Marks: 2
+    - Subquestion: "e) Name one product of the light stage of photosynthesis used in the dark stage of photosynthesis."
+      Answer: "Hydrogen ions/atoms"
+      Marks: 1
+  QuestionNumber: 4
+  Marks: 8
+  Section: A
+
+- Question: "Study the diagram below and answer the questions that follow."
+  Image: "assets/biology.pp2.q5.png"
+  Subquestions:
+    - Subquestion: "a) Name the part labeled A and B."
+      Answer:
+        - "A: Trachea"
+        - "B: Bronchus"
+      Marks: 2
+    - Subquestion: "b) State the function of the part labeled C."
+      Answer:
+        - "Secrete pleural fluid which reduces friction and encloses the lungs."
+      Marks: 2
+    - Subquestion: "c) How is the part labeled E adapted to its function?"
+      Answer:
+        - "Thin epithelium reduces the distance for diffusion."
+        - "Moist surfaces dissolve gases before they diffuse."
+        - "Well vascularized to transport diffusing gases."
+      Marks: 2
+    - Subquestion: "d) Identify the structure that performs the same function as the one illustrated above in:"
+      Subquestions:
+        - Subquestion: "i) Amoeba"
+          Answer: "Cell membrane"
+          Marks: 1
+        - Subquestion: "ii) Fish"
+          Answer: "Gill filament (rejected: Plural)"
+          Marks: 1
+      Marks: 2
+  QuestionNumber: 5
+  Marks: 8
+  Section: A
+
+- Question: "The pressure in the flow of blood in a mammal was determined at two different vessels; A and B. The data was taken within a period of 1 minute and was presented as follows."
+  Image: "assets/biology.pp2.q6.png"
+  Subquestions:
+    - Subquestion: "a) Plot the graph of blood pressure in both vessels against time on the same axis."
+      Answer: "Blood pressure - Y axis, Time (Seconds) - X axis, Curves: Vessel B - zigzag, Vessel A - not zigzag, Marking: Axes - 1 mark, Plotting - 2 marks, Smooth curve - 1 mark, Identity - 1 mark, Scales - 1 mark, Curves - 1 mark. Total: 7 marks"
+      Marks: 7
+    - Subquestion: "b) Describe the trend of each curve."
+      Answer:
+        - "Vessel A: Pressure is low and remains fairly constant."
+        - "Vessel B: Pressure is high, rises and drops within a certain range."
+      Marks: 2
+    - Subquestion: "c) (i) From the graph, suggest the possible identity for:
+        i) Blood vessel A."
+      Answer: "Vein"
+      Marks: 1
+    - Subquestion: "c) (ii) From the graph, suggest the possible identity for:
+        ii) Blood vessel B."
+      Answer: "Artery"
+      Marks: 1
+    - Subquestion: "c) (II) Give reasons for your answer in (c) i) and ii) above."
+      Answer: "Vein - Low and constant pressure without pulses, Artery - High pressure with pulses that fluctuate"
+      Marks: 2
+    - Subquestion: "d) Explain a factor that would result in an increase in blood pressure in both the blood vessels above."
+      Answer: "Exercise causes the heart to beat faster, increasing pressure in arteries, and exercise makes skeletal muscles contract and press the veins, causing blood to flow towards the heart."
+      Marks: 2
+    - Subquestion: "e) State two structural differences between the two vessels mentioned in (c) above."
+      Answer:
+        - "Vessel A: Wider lumen, Thinner muscular walls, Valves present"
+        - "Vessel B: Narrow lumen, Thicker muscular walls, No valves except pulmonary artery"
+      Marks: 2
+    - Subquestion: "f) (i) Name two diseases of the circulatory system in humans."
+      Answer:
+        - "Arteriosclerosis"
+        - "Thrombosis"
+        - "Hypertension (High blood pressure)""
+        - "Varicose veins"
+      Marks: 2
+    - Subquestion: "f) (ii) Other than transport of substances, give one other function of blood."
+      Answer:
+        - "Fight body infection/protection"
+        - "Prevent excessive bleeding/blood clotting"
+        - "Thermoregulation"
+        - "Osmoregulation"
+      Marks: 1
+  QuestionNumber: 6
+  Marks: 17
+  Section: B
+
+- Question: "State and explain various areas where knowledge about genetics is applied."
+  Answer: 
+    - "Plant and animal breeding: Breeding is done by artificial selection, either through inbreeding or crossbreeding, to selectively choose plants and animals with desirable qualities for breeding. Crossbreeding increases heterozygosity and often results in hybrid vigor, producing offspring with desirable traits."
+    - "Blood transfusion: Knowledge of blood typing and matching is used to ensure compatibility between donor and recipient blood groups, considering ABO and Rhesus antigens."
+    - "Genetic counseling: Specialists provide information and advice on genetically inherited disorders, risks, and outcomes to help individuals make informed decisions."
+    - "Genetic engineering: Desirable genes are identified, isolated, and transferred from one organism to another, leading to the production of useful substances and genetically modified organisms (transgenics) for increased crop and animal production."
+    - "Crime detection: Genetic techniques, such as DNA fingerprinting, are used to analyze DNA patterns and compare them with samples obtained from crime scenes or suspects, aiding in solving crimes and determining disputed parentage."
+    - "Cloning: Tissue culture techniques allow the cloning of plants, resulting in the production of new crop varieties."
+    - "Human genome: Genome mapping and sequencing of genes aim to identify specific gene positions on chromosomes and understand the total genetic content of an organism."
+  QuestionNumber: 7
+  Marks: 20
+  Section: B
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) Describe the process of fertilization in a flowering plant."
+      Answer: 
+        - "Pollen grains stick to the stigma surface, which produces chemical substances stimulating the pollen grain to germinate and form a pollen tube."
+        - "The pollen tube grows down through the tissues of the style, deriving nutrients from it."
+        - "The generative nucleus divides, producing two male nuclei, while the embryo sac in the ovule has eight nuclei."
+        - "When the pollen tube reaches the micropyle, the tube nucleus disintegrates, and one male nucleus fuses with the egg cell to form a zygote."
+        - "The other male nucleus fuses with the two polar nuclei to form triploid nuclei, which develop into endosperm."
+        - "This process involves double fertilization, where both the zygote and endosperm are formed."
+      Marks: 15
+    - Subquestion: "b) State the changes that take place in a flower after fertilization."
+      Answer: 
+        - "Integuments of the ovule develop into the seed coat or testa."
+        - "The zygote develops into an embryo."
+        - "The triploid nucleus develops into the endosperm."
+        - "The ovary wall develops into the pericarp of the fruit."
+        - "The ovary itself develops into the fruit."
+        - "The ovule develops into the seed."
+        - "Other parts of the flower, such as the style, petal, calyx, stamen, corolla, and stigma, may dry up and fall off."
+      Marks: 5
+  QuestionNumber: 7
+  Marks: 20
+  Section: B

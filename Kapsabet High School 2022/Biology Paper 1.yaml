@@ -1,0 +1,289 @@
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) Define the following terms as used in Biology."
+      Subquestions:
+        - Subquestion: "(i) Chemosynthesis"
+          Answer: "Process whereby non-green/some bacteria utilize energy derived from chemical reactions in their bodies to manufacture food from simple substances in the environment."
+          Marks: 1
+        - Subquestion: "(ii) Mutualism"
+          Answer: "Mode of nutrition/feeding relationship between two organisms where both organisms benefit."
+          Marks: 1
+      Marks: 2
+    - Subquestion: "b) State the importance of photosynthesis in nature."
+      Answer:
+        "- Regulation of carbon (IV) oxide and oxygen gases in the environment."
+        "- Enables autotrophs to make their own food to meet their nutritional requirements."
+        "- Converts light energy into chemical energy that can be utilized by other organisms that are unable to manufacture their own food."
+      Marks: 2
+  QuestionNumber: 1
+  Marks: 4
+
+- Question: "What is the importance of the stroma in the chloroplast?"
+  Answer:
+    "- Contains enzymes necessary for photosynthesis."
+    "- Forms the site for light-independent reactions."
+  QuestionNumber: 2
+  Marks: 2
+
+- Question: "Name two cell structures that synthesize the following cell organelles."
+  Subquestions:
+    - Subquestion: "(a) Ribosomes"
+      Answer: "Nucleolus"
+      Marks: 1
+    - Subquestion: "(b) Lysosomes"
+      Answer: "Centriole"
+      Marks: 1
+  QuestionNumber: 3
+  Marks: 2
+
+- Question: "Name three plant leaf excretory products."
+  Answer:
+    "- Quinine"
+    "- Khat"
+    "- Papain"
+  Marks: 3
+  QuestionNumber: 4
+
+- Question: "A student mixed a sample of urine from a patient with Benedict’s solution and boiled the mixture. The colour changed to orange."
+  Subquestions:
+    - Subquestion: "(a) What was present in the urine sample?"
+      Answer: "Reducing sugars/Glucose/Monosaccharides"
+      Marks: 1
+    - Subquestion: "(b) What did the student conclude about the health status of the patient?"
+      Answer: "The patient has diabetes mellitus"
+      Marks: 2
+    - Subquestion: "(c) Which organ in the patient may not be functioning properly?"
+      Answer: "Patient’s pancreas isn’t functioning well/Pancreas producing very little/insufficient insulin"
+      Marks: 1
+  QuestionNumber: 5
+  Marks: 4
+
+- Question: "Name two types of valves in the heart."
+  Answer:
+    "- Atrioventricular valves/Cuspid valves"
+    "- Semilunar valves"
+  Marks: 2
+  QuestionNumber: 6
+
+- Question: "Sometimes when one stands up very quickly after a long period of sitting, she may feel faint or dizzy. Explain."
+  Answer: "The rapid change in posture alters the body’s blood distribution, causing a temporary lack of blood in the brain."
+  Marks: 2
+  QuestionNumber: 7
+
+- Question: "The cardiac muscles are said to be myogenic. What is the meaning of the term myogenic?"
+  Answer: "Ability to initiate contraction from within without nervous stimulation."
+  Marks: 1
+  QuestionNumber: 8
+
+- Question: "A Form 3 student carried out an experimental set up as shown below."
+  Image: "assets/biology.pp1.q9.png"
+  Subquestions:
+    - Subquestion: "(a) What was the aim of the experiment?"
+      Answer: "To show CO2 is produced during respiration in plants"
+      Marks: 1
+    - Subquestion: "(b) Why was set up B included in this experiment?"
+      Answer: "It’s a control experiment; Rej. Acts as a control experiment."
+      Marks: 1
+    - Subquestion: "(c) Why was aluminium foil used in this experiment?"
+      Answer: "To prevent light from illuminating the leaf"
+      Marks: 1
+    - Subquestion: "(d) Explain why bromothymol changed its colour from blue to yellow in tube A after 30 minutes."
+      Answer: "Due to lack of light, no photosynthesis occurs; respiration occurs producing CO2; which accumulates in the test tube resulting in acidic conditions that turn the indicator yellow"
+      Marks: 1
+  QuestionNumber: 9
+  Marks: 4
+
+- Question: "Differentiate between the cell wall found in fungi and the one in plants."
+  Answer:
+    "- Cell wall in fungi is made of chitin"
+    "- Cell wall in plants is made of cellulose"
+  Marks: 2
+  QuestionNumber: 10
+
+- Question: "State three adaptations that enable prey to evade predators."
+  Answer:
+    "- Mimicry/Resemblance of some organisms to other organisms or objects making the prey unrecognizable/unpalatable"
+    "- Agility/Ability to move fast to escape predators"
+    "- Defense mechanisms e.g. powerful hind legs to kick off predators, spines to prick predators, production of foul smells to repel predators"
+  Marks: 3
+  QuestionNumber: 11
+
+- Question: "The diagram below represents a simplified trend of nitrogen circulation in an ecosystem."
+  Image: "assets/biology.pp1.q12.png"
+  Subquestions:
+    - Subquestion: "(a) What is the description term applied to each of the organisms A and D?"
+      Answer:
+        "- A: Nitrogen fixing bacteria"
+        "- D: Nitrifying bacteria"
+      Marks: 2
+    - Subquestion: "(b) Name each of the processes."
+      Answer:
+        "(i) Marked B: Ammonification; Acc Excretion"
+        "(ii) Facilitated by organisms D: Nitrification"
+        "(iii) One group of organisms that can act as saprophytes: Fungi/Bacteria"
+      Marks: 3
+    - Subquestion: "(c) Name the chemicals C, F and E."
+      Answer:
+        "C: Ammonia"
+        "F: Nitrites"
+        "E: Nitrates"
+      Marks: 3
+  QuestionNumber: 12
+  Marks: 9
+
+- Question: "The diagram below is a summary of the sequence of blood flow through the heart and associated blood vessels."
+  Image: "assets/biology.pp1.q13.png"
+  Subquestions:
+    - Subquestion: "(a) Name the blood vessels labelled A and E."
+      Answer:
+        "A: Artery"
+        "E: Veins"
+      Marks: 2
+    - Subquestion: "(b) State two differences between blood vessel B and D."
+      Answer:
+        "B: Carries oxygenated blood away from the heart to all body organs except pulmonary artery, umbilical artery, renal artery."
+        "D: Carries deoxygenated blood from the body to the heart except pulmonary vein, umbilical vein, renal vein."
+      Marks: 2
+    - Subquestion: "(c) State two adaptations of the blood vessel labeled C to its functions."
+      Answer:
+        "- Narrow/small diameter to facilitate contact with many cells."
+        "- Semi-permeable to allow selective movement of materials across it."
+        "- Thin endothelium/single layer of cells to reduce diffusion distance for faster diffusion/provide a shorter pathway for easy access to tissue fluid."
+        "- Smooth inner surface to allow smooth flow of materials."
+        "- Numerous to provide a large surface area for exchange of materials."
+      Marks: 2
+  QuestionNumber: 13
+  Marks: 6
+
+- Question: "How does light as a biotic factor influence the distribution of plants in an ecosystem?"
+  Answer:
+    - "Light influences photosynthesis by providing energy for the process."
+    - "Light affects the opening and closing of stomata, which regulates gas exchange and water loss in plants."
+    - "Light influences the opening and closing of flowers, which is important for pollination and reproduction."
+    - "Light is necessary for the growth of plants, as it is involved in various biochemical and physiological processes."
+    - "Light availability affects the germination of seeds, as certain plants require specific light conditions to initiate germination."
+  QuestionNumber: 14
+  Marks: 3
+
+- Question: "Seed germination is affected by certain plant growth regulators. Describe two actions of gibberellins during seed germination."
+  Answer:
+    - "Gibberellins break seed dormancy, allowing the seed to germinate and initiate growth."
+    - "Gibberellins act on the aleurone layer of the seed, stimulating the production and release of amylase and other hydrolytic enzymes. This increased enzyme activity leads to the hydrolysis of starch stored in the endosperm, providing the necessary nutrients for the growing embryo."
+    - "Gibberellins also have an effect on protein synthesis, promoting the synthesis of specific proteins that are involved in various aspects of seed germination and early growth."
+  QuestionNumber: 15
+  Marks: 2
+
+- Question: "The diagram below shows a foetus in the uterus."
+  Image: "assets/biology.pp1.q16.png"
+  Subquestions:
+    - Subquestion: "(a) Name two substances that will be at a higher concentration at Y than at X."
+      Answer:
+        - "Nutritional wastes"
+        - "Carbon (IV) oxide"
+        - "Antibodies"
+      Marks: 2
+    - Subquestion: "(b) State two observable adaptations of the placenta to its functions."
+      Answer:
+        - "Having (Chorionic) villi to provide a large surface area for exchange of materials between mother and foetus."
+        - "Having a thick epithelium to reduce diffusion distance for faster exchange of materials between mother and foetus."
+        - "Being highly vascularized for faster transportation and exchange of materials between the mother and the foetus."
+        - "Being secretory/glandular to secrete progesterone."
+      Marks: 2
+  QuestionNumber: 16
+  Marks: 4
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "(a) Name the genetic disorder in humans that is characterized by the inability of blood to clot."
+      Answer: "Haemophilia"
+      Marks: 1
+    - Subquestion: "(b) A female human was found to have an extra sex chromosome in her cells."
+      Subquestions:
+        - Subquestion: "(i) Give the total number of chromosomes in the female individual’s cells."
+          Answer: "47 chromosomes"
+          Marks: 1
+        - Subquestion: "(ii) Explain the possible causes of this condition."
+          Answer: "Non-disjunction during spermatogenesis or oogenesis"
+          Marks: 2
+        - Subquestion: "(iii) State two physical characteristics observed in the male individual with such a condition."
+          Answer:
+            - "Infertility due to lack of sperm production"
+            - "Underdeveloped testis"
+            - "Reduced facial hair"
+            - "Usually taller than average with signs of obesity" (Accept first 2)
+          Marks: 2
+  QuestionNumber: 17
+  Marks: 6
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "(a) Explain why fossil records as evidence of organic evolution are usually incomplete."
+      Answer:
+        - "Only partial preservation of the organism occurs because softer parts decay, hence incomplete records."
+        - "Distortion can occur during sedimentation."
+        - "Destruction can occur due to geological activities such as erosion, earthquakes, faulting, and uplifting."
+      Marks: 3
+    - Subquestion: "(b) Name the evidence of organic evolution exhibited by the occurrence of similar amino acid molecules in a range of organisms."
+      Answer: "Comparative serology"
+      Marks: 1
+  QuestionNumber: 18
+  Marks: 4
+
+- Question: "Bumble bees are insects that live in the arctic tundra. They have adaptations to keep their body temperature above that of the environment. One adaptation is shivering, which involves rapid muscle contraction. A second adaptation is a very hairy body. Explain how those adaptations help to keep the body temperature above that of the environment."
+  Answer:
+    - "Shivering is due to the contraction and relaxation of muscles, which generates energy that is supplied throughout the body to maintain body temperature."
+    - "The hairy body traps air, which acts as insulation and reduces heat loss from the body, helping to keep the body temperature above that of the environment."
+  Marks: 3
+  QuestionNumber: 19
+
+- Question: "The photograph below shows a bone from an animal."
+  Image: "assets/biology.pp1.q20.png"
+  Subquestions:
+    - Subquestion: "(a) (i) Identify the bone shown."
+      Answer: "Thoracic vertebra"
+      Marks: 1
+    - Subquestion: "(a) (ii) Give one reason for your answer."
+      Answer:
+        - "Have a long (backward facing) neural spine"
+        - "Have short transverse processes"
+        - "Have capitular and tubercular facets"
+      Marks: 1
+    - Subquestion: "(b) Name the body region from which the bone was obtained."
+      Answer: "Thoracic region"
+      Marks: 1
+    - Subquestion: "(c) State three adaptations of the bone in the photograph to its functions."
+      Answer:
+        - "Have a long (backward facing) neural spine, which offers a large surface area for attachment of back muscles."
+        - "Have a prominent Centrum for support of body weight/support vertebral column/for articulation with the ribs."
+        - "Have the tubercular facets on each transverse process that articulates with the tubercular of the ribs."
+        - "Have post zygapophysis for articulation with adjacent vertebrae."
+      Marks: 3
+  QuestionNumber: 20
+  Marks: 6
+
+- Question: "The photograph below shows a potted plant in a horizontal position."
+  Image: "assets/biology.pp1.q21.png"
+  Subquestions:
+    - Subquestion: "(a) Name the type of response shown."
+      Answer: "(Negative) Geotropism"
+      Marks: 1
+    - Subquestion: "(b) State the biological significance of the response above to the plant."
+      Answer:
+        - "Enables the shoot to obtain light for photosynthesis."
+        - "Enables the shoot to expose flowers for pollination."
+        - "Enables the shoot to keep fruits away from the soil to avoid rotting of fruits." (Any one)
+      Marks: 1
+    - Subquestion: "(c) Explain the mechanisms of the response."
+      Answer:
+        - "Gravity causes auxins to diffuse to the lower side of the shoot, resulting in a higher concentration of auxins on the lower side than the upper side."
+        - "The higher concentration of auxins on the lower side of the shoot causes faster/rapid cell division and cell elongation/growth than on the upper side, causing the curvature upward."
+      Marks: 4
+    - Subquestion: "(d) (i) State the class to which the plant belongs."
+      Answer: "Dicotyledonae"
+      Marks: 1
+    - Subquestion: "(d) (ii) Give one reason for your answer."
+      Answer: "Leaves have network veins"
+      Marks: 1
+  QuestionNumber: 21
+  Marks: 8
+
