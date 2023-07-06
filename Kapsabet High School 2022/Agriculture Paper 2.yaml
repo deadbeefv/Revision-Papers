@@ -1,0 +1,408 @@
+#Section A
+- Question: "Give four livestock rearing practices that can be carried out in a crush."
+  Answer:
+    - "Spraying livestock against external parasites."
+    - "Identifying animals by use of such methods as branding, ear tagging and ear notching."
+    - "Vaccination."
+    - "Administering prophylactic drugs to the animals."
+  QuestionNumber: 1
+  Marks: 2
+  Section: A
+
+- Question: "Name the part of the digestive system of poultry where insoluble grit is found."
+  Answer: "Gizzard"
+  QuestionNumber: 2
+  Marks: 1/2
+  Section: A
+
+- Question: "Give two distinguishing external characteristics of Californian breed of rabbit."
+  Answer:
+    - "It has a white body."
+    - "It has black ears, nose, paws, and tail."
+  QuestionNumber: 3
+  Marks: 1
+  Section: A
+
+- Question: "State four pre-disposing factors of livestock diseases."
+  Answer:
+    - "The species of the animal"
+    - "The breed of the animal"
+    - "The age of the animal"
+    - "The sex of the animal"
+  QuestionNumber: 4
+  Marks: 2
+  Section: A
+
+- Question: "Outline four functions of proteins in the body of an animal."
+  Answer:
+    - "Growth, repair and replacement of worn out body tissues."
+    - "Production of antibodies which protect the animal from diseases."
+    - "Production of digestive enzymes to break food particles."
+    - "Production of certain hormones in the body."
+  QuestionNumber: 5
+  Marks: 2
+  Section: A
+
+- Question: "State four observable features of indigenous cattle (Bos indicus)"
+  Answer:
+    - "They have humps that store fat which is broken down to energy and water in times of starvation."
+    - "They have long horns."
+    - "They have long legs."
+    - "Their udder is more rounded with a curved sole, poorly suspended and carried in front of rather than between the hind legs."
+    - "Their head is long and comparatively narrow."
+    - "Their skin is very loose and falls away from the body in folds."
+    - "Their dewlap, umbilical fold and brisket are extensively developed."
+  QuestionNumber: 6
+  Marks: 2
+  Section: A
+
+- Question: "State four importance of creep feeding."
+  Answer:
+    - "It ensures higher weights at weaning time, e.g., calves gain 1kg/day more than calves that are not creep fed."
+    - "It lessens the suckling pressure on the mother, and therefore, the condition of the dam remains good."
+    - "Weaning stress will be eased. Weaning is easier and earlier in the case of beef calves as they could be finished for marketing at one year."
+    - "Uniformity of size at weaning as creep feeding makes up for any shortage during suckling."
+    - "It shortens the fattening period because in the case of beef production, the calves go to fattening feedlots in better conditions."
+    - "It aids in developing future breeding stock."
+  QuestionNumber: 7
+  Marks: 2
+  Section: A
+
+- Question: "Name four materials that are collected by bees."
+  Answer:
+    - "Nectar"
+    - "Pollen"
+    - "Propolis"
+    - "Water"
+  QuestionNumber: 8
+  Marks: 2
+  Section: A
+
+- Question: "Give the function of each of the following parts of a fish pond."
+  Subquestions:
+    - Subquestion: "(a) Spillway"
+      Answer: "- Prevents the water from overflowing on the dykes/ To allow excess water to flow out of the pond."
+      Marks: 0.5
+    - Subquestion: "(b) Outlet"
+      Answer: "- Prevents the fish from swimming away."
+      Marks: 0.5
+  QuestionNumber: 9
+  Marks: 1
+  Section: A
+
+- Question: "State four advantages of cross-breeding."
+  Answer:
+    - "Heterosis (hybrid vigor) can be exploited. Hybrids perform better than the original breeds."
+    - "It helps to establish grade animals."
+    - "It can be used to change the breed, i.e., from one breed to another."
+    - "It is a much quicker method of producing the required animal."
+  QuestionNumber: 10
+  Marks: 2
+  Section: A
+
+- Question: "Name the part of the digestive system of a non-ruminant animal where cellulose is broken down."
+  Answer: "Caecum"
+  QuestionNumber: 11
+  Marks: 0.5
+  Section: A
+
+- Question: "State three field conditions under which a disc plough should be used instead of a moldboard plough."
+  Answer:
+    - "If the ground is hard."
+    - "If there are many obstacles in the field."
+    - "If the soil is sticky or heavy."
+    - "If there is little organic matter to be turned into the soil."
+    - "Where a rougher seed bed is required/where land is liable to erosion."
+  QuestionNumber: 12
+  Marks: 1.5
+  Section: A
+
+- Question: "State four advantages of artificial incubation in comparison to natural incubation as a method of hatching chicks."
+  Answer:
+    - "Many chicks can be hatched at one time."
+    - "It's possible to plan when to hatch the chicks."
+    - "The incubator is usually ready when required."
+    - "If management is good, chicks have no danger of suffering from parasites or diseases."
+  QuestionNumber: 13
+  Marks: 1.5
+  Section: A
+
+- Question: "Give four maintenance practices carried out on the water cooling system of a tractor."
+  Answer:
+    - "The water pump should be lubricated regularly."
+    - "Clean water should be used in the radiator, and trash removed from the fins."
+    - "All pipes should be fitted tightly to avoid leakage."
+    - "The radiator should be filled with clean water before starting the day's work."
+    - "The fan belt tension should be checked regularly, and if it is too tight or too loose, it should be adjusted accordingly."
+  QuestionNumber: 14
+  Marks: 2
+  Section: A
+
+- Question: "State four advantages of a four-stroke cycle engine."
+  Answer:
+    - "Produce high power and can do heavy farm work."
+    - "They have efficient fuel and oil utilization."
+    - "They perform a wide range of farm operations."
+    - "The engine is efficiently cooled with water, allowing the production of large engine sizes."
+    - "Exhaust gases are effectively expelled from the cylinders."
+  QuestionNumber: 15
+  Marks: 2
+  Section: A
+
+- Question: "Give three reasons why drenching alone is not an effective method of controlling intestinal parasites in livestock."
+  Answer:
+    - "It does not eradicate other stages of development of the parasite."
+    - "It does not destroy the parasites in the intermediate hosts."
+    - "It does not destroy parasites in pastures, water, and forage."
+  QuestionNumber: 16
+  Marks: 1.5
+  Section: A
+
+- Question: "Name three poultry diseases that are controlled by vaccination."
+  Answer:
+    - "Fowl typhoid (Kikuyu fowl disease)"
+    - "Newcastle"
+    - "Fowl pox"
+    - "Gumboro (infectious bursa disease)"
+  QuestionNumber: 17
+  Marks: 1.5
+  Section: A
+
+- Question: "Give the mineral whose deficiency causes the following disorders in livestock."
+  Subquestions:
+    - Subquestion: "Anaemia"
+      Answer: "Iron"
+      Marks: 0.5
+    - Subquestion: "Parakeratosis"
+      Answer: "Zinc"
+      Marks: 0.5
+  QuestionNumber: 18
+  Marks: 1
+  Section: A
+
+- Question: "Give three reasons why liming is done in fish ponds."
+  Answer:
+    - "Acts as a disinfectant against nematodes."
+    - "Neutralizes acidity in the pond water."
+    - "Makes silt settle at the bottom of the pond."
+  QuestionNumber: 19
+  Marks: 1.5
+  Section: A
+
+- Question: "If records show that a rabbit was served on 27th September 2020, which date did it give birth?"
+  Answer: "26th, 27th, 28th, 29th October 2020"
+  QuestionNumber: 20
+  Marks: 0.5
+  Section: A
+
+#Section B
+- Question: "Below is an illustration of part of a wooden post wire fence. Study it and answer the questions that follow."
+  Subquestions:
+    - Subquestion: "a) Identify the type of wire in the illustration."
+      Answer: "- Barbed wire fence."
+      Marks: 1
+    - Subquestion: "b) On the illustration, show by drawing how the corner post should be supported."
+      Answer: # [Add a drawing of how the corner post should be supported]
+      Marks: 1
+    - Subquestion: "c) On the illustration, draw, label, and give the function of a dropper."
+      Answer: # [Add a drawing of the dropper, label it, and provide the function]
+      Image: ""
+      Marks: 2
+    - Subquestion: "d) Name the correct tool for tightening the wire during construction of the fence."
+      Answer: "- Wire strainer/monkey strainer."
+      Marks: 1
+  Image: "assets/agriculture.pp2.q21.png"
+  Question Number: 21
+  Marks: 5
+  Section: B
+
+- Question: "Observe the tools A, B, and C illustrated below, then answer the questions that follow."
+  Subquestions:
+    - Subquestion: "a) Name tools A, B, and C and state the correct use of each tool."
+      Answer:
+        - "Tool A: Sickle - Harvesting small grains and cereal crops e.g., rice, wheat, and millet. Also ideal for cutting grass."
+        - "Tool B: Pruning saw - Pruning or cutting branches e.g., coffee, citrus, and ornamental plants."
+        - "Tool C: Jack plane - Smoothing and cleaning up the surface of wood to obtain a fine, even surface."
+      Marks: 3
+    - Subquestion: "b) State two maintenance practices that should be carried out to ensure that tool C is in good working condition."
+      Answer:
+        - "Knobs or handles should be replaced when broken."
+        - "Check and replace any worn-out parts of the plane."
+        - "Plane iron and cap iron require replacement when worn out."
+        - "The cutting edge of the plane iron should be sharpened on an oilstone when blunt."
+        - "The plane should be laid on its side at the workbench when not in use."
+        - "After work, the plane iron is drawn back, and the plane is placed on its side in the tool rack."
+      Marks: 2
+  Image: "assets/agriculture.pp2.q22.png"
+  Question Number: 22
+  Marks: 5
+  Section: B
+
+- Question: "Below is an illustration of an activity carried out by a poultry farmer keeping layers."
+  Subquestions:
+    - Subquestion: "a) Identify the activity carried out using the setup."
+      Answer: "- Egg candling."
+      Marks: 1
+    - Subquestion: "b) State four abnormalities in eggs that can be detected using the setup above."
+      Answer:
+        - "Hair cracks on the shell."
+        - "Double yolk/deformed yolk/broken yolk."
+        - "Absence of yolk."
+        - "Blood spots/meat spots."
+        - "Dead embryo."
+        - "Inappropriate size and location of the air cell/air space."
+      Marks: 2
+    - Subquestion: "c) How can a farmer improve the following?"
+      Subquestions:
+        - Subquestion: "i. Hardness of egg shells."
+          Answer: "- Feeding calcium/soluble grit/oyster shells to the birds."
+          Marks: 1
+        - Subquestion: "ii. Yellowness of the egg yolk."
+          Answer: "- Providing green vegetation/green vegetables to the birds."
+          Marks: 1
+  Image: "assets/agriculture.pp2.q23.png"
+  Question Number: 23
+  Marks: 4
+  Section: B
+
+- Question: "The diagrams K, L, M, and N below show four possible ways of drawing milk from the teat of a cow during milking."
+  Subquestions:
+    - Subquestion: "a) Which diagram shows the proper way of drawing milk?"
+      Answer: "- Diagram N."
+      Marks: 1
+    - Subquestion: "b) How long should it take to milk a cow from the start to the end of milking?"
+      Answer: "- Five to eight minutes."
+      Marks: 1
+    - Subquestion: "c) How would a milkman ensure that no milk remains in the udder at the end of milking?"
+      Answer: "- By massaging the udder and stripping out milk from the teats."
+      Marks: 1
+    - Subquestion: "d) Give two practices carried out on milk immediately after milking."
+      Answer:
+        - "Weighing."
+        - "Filtering/sieving."
+        - "Cooling/storage."
+      Marks: 2
+  Image: "assets/agriculture.pp2.q23.png"
+  Question Number: 24
+  Marks: 5
+  Section: B
+
+#Section C
+- Question: "Answer the following Questions."
+  Subquestions:
+    - Subquestion: "a) Describe the advantages of the battery cage system of rearing layers."
+      Answer:
+        - "Higher egg production due to less energy wastage by birds."
+        - "Accurate egg production records can be kept."
+        - "Cannibalism and egg eating are minimized."
+        - "Eggs are clean because hens do not step on them."
+        - "The system can easily be mechanized."
+        - "Birds do not contaminate food and water."
+        - "Handling is easy as hens are restricted to a small place."
+        - "Broodiness is discouraged as birds do not reach the eggs."
+        - "A large number of birds can be kept in a small space, hence higher stocking rate."
+        - "Sick birds can easily be detected and isolated for treatment."
+        - "Wire floors prevent re-infestation of parasitic worms and coccidia."
+        - "There is no bullying during feeding."
+        - "There is low labor requirement."
+      Marks: 10
+    - Subquestion: "b) State and explain five factors affecting milk production."
+      Answer:
+        - "Age of the animal - Young animals produce milk with a higher butterfat content than older animals."
+        - "Condition of the animal - Under extreme emaciation, there is a substantial drop in the butterfat content of the milk."
+        - "Stage of lactation and pregnancy - The butterfat content in milk tends to be higher in the middle phase of the lactation period. Hormonal changes in a pregnant lactating animal are responsible for the lactation trends in milk composition."
+        - "Completeness of milking - The last milk drawn from the udder produces 10% of the total fats in milk. Milk produced in the morning has a lower fat content than that drawn in the evening."
+        - "Breed differences - Most of these differences are more pronounced in terms of fat content."
+        - "Season of the year - Fat % increases during cold seasons of the year."
+        - "The type of food eaten by the animal - The volatile fatty acids produced in the rumen of the animal influence the composition of milk. Propionic acid is from grain feeds, while acetic acid is from roughages. An animal eating large quantities of roughages produces milk with high fats, proteins, and lactose compared to an animal fed on a lot of grains."
+        - "Other factors - For example, diseases like mastitis reduce lactose composition, and animals under treatment may be affected."
+      Marks: 10
+  Question Number: 25
+  Marks: 20
+  Section: C
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) State the functions of any six parts of a plunge dip."
+      Answer:
+        - "Animal holding yard - Holds animals before dipping and has a concrete floor. Stonesare used to ensure that mud from the hooves is removed before getting into the dip wash."
+        - "Footbath - Used for washing livestock feet to remove mud and contains a copper II sulphate solution that helps control foot rot."
+        - "The jump - A narrow entrance to the dip tank with short steps that allows animals to jump singly into the dip tank."
+        - "Dip tank - Holds the dip wash and should measure 5m long at the bottom, 8m at the top, and 1.6m deep at the highest level of acaricide."
+        - "Rump or staircase - Enables animals to climb out of the dip tank."
+        - "Draining race - Holds livestock after dipping to let the dip wash drain back to the plunge dip."
+        - "Drying yard - Holds animals for a while before being released to the pastures."
+        - "Silt trap outlet - Traps mud and dung before the dip wash flows back to the dip tank."
+        - "Dip tank shelter (roof) - Lowers the evaporation rate of the dip wash and avoids the dilution of the dip wash by rainwater."
+        - "Water tank - Stores water used for dipping purposes."
+        - "Waste pit - Used as a damping site for sediments from the dip tank."
+      Marks: 6
+    - Subquestion: "b) State and explain four ways through which power transmitted from the engine is made available for use."
+      Answer:
+        - "The propeller shaft - Connects the gearbox to the differential that has axles which drive the wheels, making the tractor move."
+        - "The power take-off shaft (PTO shaft) - Located at the rear part of the tractor and rotates at the same speed as the crankshaft. It can be connected to machines such as mowers, planters, rotavators, sprayers, and fertilizer spreaders."
+        - "The hydraulic system - Attached to the three-point linkage, it lowers or raises mounted implements like plows, mowers, planters, and sprayers."
+        - "The drawbar - Serves for the attachment of trailed implements that can be used during harrowing, transportation, or rolling."
+      Marks: 4
+    - Subquestion: "c) Explain five mechanical methods of controlling ticks."
+      Answer:
+        - "Burning the infested pastures destroys a large number of eggs, larvae, nymphs, and adults."
+        - "Interfering with or altering the tick's environment, such as plowing pasture land to expose the eggs to the sun's heat for desiccation or burying them deeply."
+        - "Fencing off the pasture land and farm combined with regular use of acaricides."
+        - "Starving the ticks to death by keeping the animals away from infested pastures through rotational grazing."
+        - "Hand picking the ticks from livestock and killing them (de-ticking)."
+      Marks: 10
+  Question Number: 26
+  Marks: 20
+  Section: C
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) State five advantages of embryo transplant."
+      Answer:
+        "- It is possible to implant embryos from a high-quality female to a less valuable female and hence improve the performance of the offspring."
+        "- It stimulates milk production in a female that was not ready to produce milk."
+        "- A highly productive female can be spread over a large area to benefit many farmers."
+        "- It is easier to transport embryos in test tubes than the whole animal."
+        "- Embryos can be stored for long periods awaiting the availability of a recipient female."
+      Marks: 5
+    - Subquestion: "b) Describe coccidiosis disease under the following subquestions."
+      Subquestions:
+        - Subquestion: "i. Animals attacked"
+          Answer: "Calves, poultry, lambs, and young rabbits."
+          Marks: 2
+        - Subquestion: "ii. Causal organism"
+          Answer: "Coccidia of the Eimeria spp."
+          Marks: 1
+        - Subquestion: "iii. Symptoms"
+          Answer:
+            "- Diarrhea which may be whitish."
+            "- Dysentery or blood in the dung."
+            "- Birds have ruffled feathers, dull with drooping wings."
+            "- Animals become emaciated."
+            "- Sudden death in birds, rabbits, and kids."
+          Marks: 4
+        - Subquestion: "iv. Control measures"
+          Answer:
+            "- Use of coccidiostats."
+            "- Observing hygiene."
+            "- Isolation in cattle."
+            "- Overcrowding in a poultry house should be avoided."
+          Marks: 3
+      Marks: 10
+    - Subquestion: "c) A ration containing 20% DCP for growing chicks is to be obtained by mixing ground maize containing 10% DCP and fishmeal containing 50% DCP. Calculate the amount of each feedstuff in kilograms required to prepare 200kg of the feed."
+      Answer:
+        "Let x be the amount of ground maize in kg."
+        "Then (200 - x) is the amount of fishmeal in kg."
+        "According to the DCP percentages, we have the following equation:"
+        "0.10x + 0.50(200 - x) = 0.20(200)"
+        "0.10x + 100 - 0.50x = 40"
+        "100 - 40 = 0.50x - 0.10x"
+        "60 = 0.40x"
+        "x = 60/0.40"
+        "x = 150 kg (ground maize)"
+        "(200 - x) = (200 - 150) = 50 kg (fishmeal)"
+      Marks: 5
+  Question Number: 27
+  Marks: 20
+  Section: A
