@@ -228,8 +228,9 @@
       Answer: "- To show that soil is made of different-sized particles"
       Marks: 1
     - Subquestion: "b) Name the parts labeled C and D."
-      Answer: "- C = Humus / organic matter"
-              "- D = Gravel"
+      Answer: |
+        - "C = Humus / organic matter"
+        - "D = Gravel"
       Marks: 2
     - Subquestion: "c) Name the property of soil being investigated."
       Answer: "- Soil texture"
@@ -244,13 +245,15 @@
       Answer: "- Splash / Raindrop"
       Marks: 1
     - Subquestion: "b) Give two soil factors that influence the rate of soil erosion."
-      Answer: "- Soil depth / profile"
-              "- Soil type"
+      Answer: 
+        - "Soil depth / profile"
+        - "Soil type"
       Marks: 2
     - Subquestion: "c) Name one agent of soil erosion."
-      Answer: "- Wind"
-              "- Water"
-              "- Human activities"
+      Answer: 
+        - "Wind"
+        - "Water"
+        - "Human activities"
       Marks: 1
   Question Number: 22
   Marks: 4
@@ -259,12 +262,13 @@
 - Question: "The diagram below illustrates a method of irrigation carried out on the farm."
   Subquestions:
     - Subquestion: "(i) Identify the type of irrigation shown above."
-      Answer: "- Furrow irrigation"
+      Answer: "Furrow irrigation"
       Marks: 1
     - Subquestion: "(ii) Name two advantages of the above method."
-      Answer: "- Reduce fungal diseases e.g., blight"
-              "- Cheap to establish and maintain"
-              "- Require little skills"
+      Answer: 
+        - "Reduce fungal diseases e.g., blight"
+        - "Cheap to establish and maintain"
+        - "Require little skills"
       Marks: 2
   Question Number: 23
   Marks: 3
@@ -273,22 +277,24 @@
 - Question: "The diagram below represents a method of manure preparation. Study it carefully and answer the questions that follow."
   Subquestions:
     - Subquestion: "a) Identify the type of manure being prepared."
-      Answer: "- Compost manure"
+      Answer: "Compost manure"
       Marks: 1
     - Subquestion: "b) Name the parts labeled E and F."
-      Answer: "- E = Dry leaves"
-              "- F = Maize stalk"
+      Answer: 
+        - "E = Dry leaves"
+        - "F = Maize stalk"
       Marks: 1
     - Subquestion: "c) Give three disadvantages of manure."
-      Answer: "- Release nutrients slowly"
-              "- Bulky"
-              "- May be a source of weeds"
-              "- Provide a breeding ground for pests"
-              "- Difficult to quantify nutrients contained"
-              "- Can only be used if fully decomposed"
+      Answer: 
+        - "Release nutrients slowly"
+        - "Bulky"
+        - "May be a source of weeds"
+        - "Provide a breeding ground for pests"
+        - "Difficult to quantify nutrients contained"
+        - "Can only be used if fully decomposed"
       Marks: 3
   Question Number: 24
-  Marks:12
+  Marks: 12
   Section: B
 
 #Section C

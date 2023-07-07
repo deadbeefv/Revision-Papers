@@ -360,11 +360,11 @@
   Subquestions:
     - Subquestion: "a) State five advantages of embryo transplant."
       Answer:
-        "- It is possible to implant embryos from a high-quality female to a less valuable female and hence improve the performance of the offspring."
-        "- It stimulates milk production in a female that was not ready to produce milk."
-        "- A highly productive female can be spread over a large area to benefit many farmers."
-        "- It is easier to transport embryos in test tubes than the whole animal."
-        "- Embryos can be stored for long periods awaiting the availability of a recipient female."
+        - "It is possible to implant embryos from a high-quality female to a less valuable female and hence improve the performance of the offspring."
+        - "It stimulates milk production in a female that was not ready to produce milk."
+        - "A highly productive female can be spread over a large area to benefit many farmers."
+        - "It is easier to transport embryos in test tubes than the whole animal."
+        - "Embryos can be stored for long periods awaiting the availability of a recipient female."
       Marks: 5
     - Subquestion: "b) Describe coccidiosis disease under the following subquestions."
       Subquestions:
@@ -376,22 +376,22 @@
           Marks: 1
         - Subquestion: "iii. Symptoms"
           Answer:
-            "- Diarrhea which may be whitish."
-            "- Dysentery or blood in the dung."
-            "- Birds have ruffled feathers, dull with drooping wings."
-            "- Animals become emaciated."
-            "- Sudden death in birds, rabbits, and kids."
+            - "Diarrhea which may be whitish."
+            - "Dysentery or blood in the dung."
+            - "Birds have ruffled feathers, dull with drooping wings."
+            - "Animals become emaciated."
+            - "Sudden death in birds, rabbits, and kids."
           Marks: 4
         - Subquestion: "iv. Control measures"
           Answer:
-            "- Use of coccidiostats."
-            "- Observing hygiene."
-            "- Isolation in cattle."
-            "- Overcrowding in a poultry house should be avoided."
+            - "Use of coccidiostats."
+            - "Observing hygiene."
+            - "Isolation in cattle."
+            - "Overcrowding in a poultry house should be avoided."
           Marks: 3
       Marks: 10
     - Subquestion: "c) A ration containing 20% DCP for growing chicks is to be obtained by mixing ground maize containing 10% DCP and fishmeal containing 50% DCP. Calculate the amount of each feedstuff in kilograms required to prepare 200kg of the feed."
-      Answer:
+      Answer: |
         "Let x be the amount of ground maize in kg."
         "Then (200 - x) is the amount of fishmeal in kg."
         "According to the DCP percentages, we have the following equation:"

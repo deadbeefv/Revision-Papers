@@ -11,17 +11,17 @@
       Marks: 2
     - Subquestion: "b) State the importance of photosynthesis in nature."
       Answer:
-        "- Regulation of carbon (IV) oxide and oxygen gases in the environment."
-        "- Enables autotrophs to make their own food to meet their nutritional requirements."
-        "- Converts light energy into chemical energy that can be utilized by other organisms that are unable to manufacture their own food."
+        - "Regulation of carbon (IV) oxide and oxygen gases in the environment."
+        - "Enables autotrophs to make their own food to meet their nutritional requirements."
+        - "Converts light energy into chemical energy that can be utilized by other organisms that are unable to manufacture their own food."
       Marks: 2
   QuestionNumber: 1
   Marks: 4
 
 - Question: "What is the importance of the stroma in the chloroplast?"
   Answer:
-    "- Contains enzymes necessary for photosynthesis."
-    "- Forms the site for light-independent reactions."
+    - "Contains enzymes necessary for photosynthesis."
+    - "Forms the site for light-independent reactions."
   QuestionNumber: 2
   Marks: 2
 
@@ -38,9 +38,9 @@
 
 - Question: "Name three plant leaf excretory products."
   Answer:
-    "- Quinine"
-    "- Khat"
-    "- Papain"
+    - "Quinine"
+    - "Khat"
+    - "Papain"
   Marks: 3
   QuestionNumber: 4
 
@@ -60,8 +60,8 @@
 
 - Question: "Name two types of valves in the heart."
   Answer:
-    "- Atrioventricular valves/Cuspid valves"
-    "- Semilunar valves"
+    - "Atrioventricular valves/Cuspid valves"
+    - "Semilunar valves"
   Marks: 2
   QuestionNumber: 6
 
@@ -95,16 +95,16 @@
 
 - Question: "Differentiate between the cell wall found in fungi and the one in plants."
   Answer:
-    "- Cell wall in fungi is made of chitin"
-    "- Cell wall in plants is made of cellulose"
+    - "Cell wall in fungi is made of chitin"
+    - "Cell wall in plants is made of cellulose"
   Marks: 2
   QuestionNumber: 10
 
 - Question: "State three adaptations that enable prey to evade predators."
   Answer:
-    "- Mimicry/Resemblance of some organisms to other organisms or objects making the prey unrecognizable/unpalatable"
-    "- Agility/Ability to move fast to escape predators"
-    "- Defense mechanisms e.g. powerful hind legs to kick off predators, spines to prick predators, production of foul smells to repel predators"
+    - "Mimicry/Resemblance of some organisms to other organisms or objects making the prey unrecognizable/unpalatable"
+    - "Agility/Ability to move fast to escape predators"
+    - "Defense mechanisms e.g. powerful hind legs to kick off predators, spines to prick predators, production of foul smells to repel predators"
   Marks: 3
   QuestionNumber: 11
 
@@ -113,20 +113,20 @@
   Subquestions:
     - Subquestion: "(a) What is the description term applied to each of the organisms A and D?"
       Answer:
-        "- A: Nitrogen fixing bacteria"
-        "- D: Nitrifying bacteria"
+        - "A: Nitrogen fixing bacteria"
+        - "D: Nitrifying bacteria"
       Marks: 2
     - Subquestion: "(b) Name each of the processes."
       Answer:
-        "(i) Marked B: Ammonification; Acc Excretion"
-        "(ii) Facilitated by organisms D: Nitrification"
-        "(iii) One group of organisms that can act as saprophytes: Fungi/Bacteria"
+        - "(i) Marked B: Ammonification; Acc Excretion"
+        - "(ii) Facilitated by organisms D: Nitrification"
+        - "(iii) One group of organisms that can act as saprophytes: Fungi/Bacteria"
       Marks: 3
     - Subquestion: "(c) Name the chemicals C, F and E."
       Answer:
-        "C: Ammonia"
-        "F: Nitrites"
-        "E: Nitrates"
+        - "C: Ammonia"
+        - "F: Nitrites"
+        - "E: Nitrates"
       Marks: 3
   QuestionNumber: 12
   Marks: 9
@@ -136,21 +136,21 @@
   Subquestions:
     - Subquestion: "(a) Name the blood vessels labelled A and E."
       Answer:
-        "A: Artery"
-        "E: Veins"
+        - "A: Artery"
+        - "E: Veins"
       Marks: 2
     - Subquestion: "(b) State two differences between blood vessel B and D."
       Answer:
-        "B: Carries oxygenated blood away from the heart to all body organs except pulmonary artery, umbilical artery, renal artery."
-        "D: Carries deoxygenated blood from the body to the heart except pulmonary vein, umbilical vein, renal vein."
+        - "B: Carries oxygenated blood away from the heart to all body organs except pulmonary artery, umbilical artery, renal artery."
+        - "D: Carries deoxygenated blood from the body to the heart except pulmonary vein, umbilical vein, renal vein."
       Marks: 2
     - Subquestion: "(c) State two adaptations of the blood vessel labeled C to its functions."
       Answer:
-        "- Narrow/small diameter to facilitate contact with many cells."
-        "- Semi-permeable to allow selective movement of materials across it."
-        "- Thin endothelium/single layer of cells to reduce diffusion distance for faster diffusion/provide a shorter pathway for easy access to tissue fluid."
-        "- Smooth inner surface to allow smooth flow of materials."
-        "- Numerous to provide a large surface area for exchange of materials."
+        - "Narrow/small diameter to facilitate contact with many cells."
+        - "Semi-permeable to allow selective movement of materials across it."
+        - "Thin endothelium/single layer of cells to reduce diffusion distance for faster diffusion/provide a shorter pathway for easy access to tissue fluid."
+        - "Smooth inner surface to allow smooth flow of materials."
+        - "Numerous to provide a large surface area for exchange of materials."
       Marks: 2
   QuestionNumber: 13
   Marks: 6
@@ -210,7 +210,7 @@
             - "Infertility due to lack of sperm production"
             - "Underdeveloped testis"
             - "Reduced facial hair"
-            - "Usually taller than average with signs of obesity" (Accept first 2)
+            - "Usually taller than average with signs of obesity"
           Marks: 2
   QuestionNumber: 17
   Marks: 6
