@@ -1,2 +1,9 @@
-- Exam: "Kapsabet High School 2022 Mock"
-  
+- Exam: "Kapsabet High School 2022 Trial 3 Midterm Internal Examination"
+  Year: 2022
+  Type: "Mock"
+  Subjects:
+    - Agriculture Paper 1: "Kapsabet High School 2022/Agriculture Paper 1.yaml"
+    - Agricluture Paper 2: "Kapsabet High School 2022/Agriculture Paper 2.yaml"
+    - Biology Paper 1: "Kapsabet High School 2022/Biology Paper 1.yaml"
+    - Biology Paper 2: "Kapsabet High School 2022/Biology Paper 2.yaml"
+    - Business Studies Paper 1: "Kapsabet High School 2022/Business Studies Paper 1.yaml"
