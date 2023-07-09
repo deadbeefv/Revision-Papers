@@ -1,0 +1,154 @@
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) Discuss five factors that influence entrepreneurship in Kenya."
+      Answer:
+        - "Government policy."
+        - "Level of infrastructure."
+        - "Levels of education and skills."
+        - "Availability of markets."
+        - "Availability of resources."
+        - "Culture."
+        - "Level of competition."
+        - "Political stability."
+        - "Natural factors."
+      Marks: 10
+    - Subquestion: "b) Explain five monetary measures that can be taken to control inflation."
+      Answer:
+        - "Selling of government securities in an open market operation (O.M.O)."
+        - "Increasing the commercial banks cash/liquidity ratio."
+        - "Increasing the rate of interest on lending to the commercial banks."
+        - "Increasing the compulsory deposits by the commercial banks with the central banks."
+        - "Putting in place selective credit control measures."
+        - "Directives from the central banks to the commercial banks to increase their interest on borrowed money."
+        - "Request by the central bank to the commercial banks (moral persuasion) to exercise control on their lending rates."
+      Marks: 10
+  QuestionNumber: 1
+  Marks: 20
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: |
+        "a) On 1st January 2018, Sunlight enterprise had Kshs.95000 cash in hand and Kshs.125000 at bank." 
+        "During the month, the following transactions took place."
+        "2018 Jan 3rd; Cash sales kshs.9000 directly banked"
+        "5th Purchased goods worth kshs.19500 by cash"
+        "12th Deposited kshs.25000 into the business bank account from private sources."
+        "14th ; Obura a debtor settled his account of kshs.15000 by cash less 5% cash discount"
+        "17th; Paid James kshs.3900 by cheque in full settlement of his account less 2.5% cash discount."
+        "20th; Sold goods worth kshs.13500 to Kim on credit."
+        "23rd; Settled Kamau’s account of kshs.15000 by a cheque of kshs.13500."
+        "24th; Received a cheque of kshs.28800 from Leeroy a debtor having allowed a cash discount of 4%."
+        "25th ; Paid salaries by cheque kshs.36000"
+        "27th ; Bought stationery by cash Kshs.29600"
+        "28th; The cheque received from Leeroy on 24th was dishonoured."
+        "30th; All cash was banked except Kshs.15000."
+        "Prepare a duly balanced three-column cash book."
+      Answer: 
+      Image: "assets/business.pp2.q2a.png"
+      Marks: 10
+    - Subquestion: "b) Explain five differences between commercial banks and non-bank financial institutions."
+      Answer:
+        - "Commercial banks provide finance that is not restricted to any sector, while non-bank financial institutions provide finance for a specific sector."
+        - "Commercial banks may provide foreign exchange services, whereas non-bank financial institutions do not provide foreign exchange services."
+        - "Commercial banks provide short-term and medium-term finance, while non-bank financial institutions mainly provide medium-term and long-term finances."
+        - "Commercial banks offer all types of accounts (current, savings, and fixed deposit), whereas non-bank financial institutions mainly offer savings and fixed accounts only."
+        - "Commercial banks are under the direct control of the central bank, whereas non-bank financial institutions are not under direct control of the central bank."
+        - "Commercial banks may offer overdraft facilities as they operate current accounts, while non-bank financial institutions do not offer overdraft facilities since they do not operate current savings accounts."
+        - "Commercial banks provide facilities for the safekeeping of valuable items, while non-bank financial institutions do not provide such facilities."
+        - "Commercial banks provide finance mainly for working capital, whereas non-bank financial institutions provide finance mainly for capital development."
+      Marks: 10
+  QuestionNumber: 2
+  Marks: 20
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) With the aid of an appropriate diagram, explain how the price of a commodity is determined in a free market."
+      Answer: |
+        "The price of a commodity is determined by the interaction of demand and supply curves. The resulting price is referred to as the equilibrium price, which occurs when the quantity of goods supplied equals the quantity demanded." 
+        "Below the equilibrium price, there is excess demand, leading to price increases. Above the equilibrium price, there is excess supply, leading to price decreases."
+      Image: "assets/business.pp2.q3a.png"
+      Marks: 10
+    - Subquestion: "b) Discuss five trends in forms of business units."
+      Answer:
+        - "Amalgamation: Two or more business organizations combine to form a new business."
+        - "Privatization: Government sells shares of state-owned corporations to the public."
+        - "Holding companies: One company acquires 51% or more shares in one or more other companies."
+        - "Franchising: One company grants another the rights to manufacture, distribute, or provide its branded products."
+        - "Check-off system: Members' contributions to Saccos are deducted at source."
+        - "Performance contract: Employees in state corporations sign contracts committing to perform to set standards."
+        - "Cartels: A group of related companies work together to control output, price, and markets of their products."
+        - "Absorption (takeover): One business buys all assets of another business."
+        - "Burial benevolent funds (BBF): Assist members financially during burials."
+        - "Front office savings account (FOSA): Service in SACCOs for convenient deposit and withdrawal."
+      Marks: 10
+  QuestionNumber: 3
+  Marks: 20
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) Katiba enterprise is a new firm which was established recently. Discuss five factors that the marketing manager should consider in order to choose an appropriate method of promoting their product."
+      Answer:
+        - "Cost of the promotion method: The marketing manager should consider the affordability of the promotion method."
+        - "Nature of the product: The marketing manager should choose a method that suits the nature of the product."
+        - "Target group: The promotion method should reach the target group effectively to minimize wastage."
+        - "Objectives of the promoting firm: The method should help the firm achieve its specific objectives."
+        - "Methods used by competitors: The marketing manager should use a different method from competitors to stand out."
+        - "Government policy: The chosen method should comply with the legal requirements."
+        - "Geographical region: The method should cover the intended geographical area effectively."
+        - "Availability of the promotion method: The method should be easily accessible for implementation."
+      Marks: 10
+    - Subquestion: "b) Describe five features of economic resources."
+      Answer:
+        - "Scarcity: Economic resources are limited in supply relative to human wants."
+        - "Value: Economic resources have monetary value and can be exchanged."
+        - "Combinability: Economic resources can be combined to produce goods and services."
+        - "Transferability: Ownership of economic resources can be transferred through trade."
+        - "Utility: Economic resources have the ability to satisfy human wants."
+        - "Alternative uses: Economic resources can be used for different purposes, and choices must be made regarding their allocation."
+        - "Complementarity: Different economic resources can be used together in production."
+        - "Uneven distribution: Economic resources are not evenly distributed across different regions."
+      Marks: 10
+  QuestionNumber: 4
+  Marks: 20
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) The following information was extracted from the books of Chelule Traders for the year ended 31st December 2019. Stock on 31st December 2019 was valued at Kshs.15,000. Required: (a) Prepare Chelule Traders profit and loss account for the year ended 31st Dec 2019. (b) Extract a balance sheet as at 31st Dec 2019."
+      Image: "assets/business.pp2.q5.png"
+      Answer:
+        - Image: "assets/business.pp2.q5a.png"
+        - Image: "assets/business.pp2.q5b.png"
+      Marks: 12
+    - Subquestion: "b) Poor services delivery in most counties is caused by inappropriate utilization of public resources, explain four principles that should guide public expenditure in order to improve service delivery."
+      Answer:
+        - "Principle 1: Efficiency - Public expenditure should be allocated and utilized in the most efficient manner, ensuring that resources are not wasted and services are delivered effectively."
+        - "Principle 2: Accountability - There should be transparency and accountability in the management and utilization of public resources. This includes proper financial reporting, auditing, and oversight mechanisms."
+        - "Principle 3: Prioritization - Public expenditure should prioritize essential services and programs that have the greatest impact on improving the well-being of citizens. Resources should be allocated based on needs and priorities."
+        - "Principle 4: Effectiveness - Public expenditure should be directed towards achieving the intended outcomes and objectives. It should be results-oriented, focusing on delivering quality services and achieving desired outcomes."
+      Marks: 8
+  QuestionNumber: 5
+  Marks: 20
+
+- Question: "Answer the following questions."
+  Subquestions:
+    - Subquestion: "a) Discuss five characteristics of a perfect competitive market."
+      Answer:
+        - "1. Perfect knowledge about the market - Consumers have adequate information about prices, quality, and market conditions."
+        - "2. Homogeneous products - The products are identical, with no differentiation among sellers."
+        - "3. No transport cost - Products are charged the same price regardless of regional differences."
+        - "4. Large number of buyers and sellers - Many buyers and sellers exist, ensuring no individual can influence the market."
+        - "5. Free entry and exit of firms - Firms can freely enter or exit the market, ensuring equal opportunities."
+      Marks: 8
+    - Subquestion: "b) Explain five reasons why some countries engage in trade restrictions."
+      Answer:
+        - "1. Protection of local infant industries - Restricting trade protects domestic industries from unfair competition."
+        - "2. Promoting self-reliance - Trade restrictions encourage local producers to increase productivity and avoid over-reliance on imports."
+        - "3. Protection of strategic industries - Certain industries vital for national security are protected from foreign dependence."
+        - "4. Expansion of the market for local products - Restricting imports increases demand for domestic goods."
+        - "5. Discouraging dumping - Trade restrictions prevent foreign countries from selling products at unfairly low prices."
+        - "6. Creation of employment - Discouraging imports encourages the growth of local industries and job creation."
+        - "7. Preservation of the balance of trade - Trade restrictions aim to maintain a favorable balance of trade."
+        - "8. Protection of cultural and social values - Trade restrictions help control the adoption of harmful cultural influences."
+      Marks: 10
+  QuestionNumber: 6
+  Marks: 20

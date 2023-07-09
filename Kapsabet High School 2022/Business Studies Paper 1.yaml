@@ -84,3 +84,228 @@
     - "Diversification of the economy."
   Marks: 4
   QuestionNumber: 8
+
+- Question: "Outline four ways in which commercial attachés may promote trade between their country and other countries."
+  Answer:
+    - "Assist in organizing trade fairs and exhibitions."
+    - "Advise exporters on standards and legal requirements."
+    - "Carrying out market research."
+    - "Provide information about business opportunities."
+    - "Aid in facilitating payments."
+  Marks: 4
+  QuestionNumber: 9
+
+- Question: |
+    "On 1st January 2017 Mr. Nyachae started a business with Ksh. 10,000 in cash. The following transactions took place during the first week of his business commencing"
+    "2nd January	Deposited Sh. 5,000 in the bank"
+    "3rd January	Purchased stationery worth Sh. 1,000 in cash."
+    "4th January	Bought goods worth Sh. 2,000 by cheque"
+  Answer: |
+    T-Accounts:
+
+    Cash Account:
+    --------------------------------------------------
+    Date       |        Details        |      Amount
+    --------------------------------------------------
+    1-Jan-2017 |   Opening Balance    |     10,000
+    2-Jan-2017 | Bank Deposit         |      5,000
+    3-Jan-2017 | Stationery Purchase  |     -1,000
+    --------------------------------------------------
+    Balance    |                      |     14,000
+
+    Bank Account:
+    --------------------------------------------------
+    Date       |        Details        |      Amount
+    --------------------------------------------------
+    2-Jan-2017 | Cash Deposit         |      5,000
+    4-Jan-2017 | Goods Purchase       |     -2,000
+    --------------------------------------------------
+    Balance    |                      |      3,000
+
+    Goods Account:
+    --------------------------------------------------
+    Date       |        Details        |      Amount
+    --------------------------------------------------
+    4-Jan-2017 | Purchase by Cheque   |      2,000
+    --------------------------------------------------
+    Balance    |                      |      2,000
+
+    Stationery Account:
+    --------------------------------------------------
+    Date       |        Details        |      Amount
+    --------------------------------------------------
+    3-Jan-2017 | Cash Purchase        |     -1,000
+    --------------------------------------------------
+    Balance    |                      |     -1,000
+  Marks: 4
+  QuestionNumber: 10
+
+- Question: "Outline four differences between insurance and assurance."
+  Answer:
+    - "Insurance: Has no surrender value. Assurance: Has a surrender value."
+    - "Insurance: The insurance contract is renewed yearly. Assurance: Insurance contract is for life and does not require renewing."
+    - "Insurance: Has no maturity date. Assurance: Has a maturity date."
+    - "Insurance: There must be proof of insurable interest. Assurance: There is no proof of insurable interest."
+    - "Insurance: Risk insured may or may not happen. Assurance: Risk insured against must happen."
+    - "Insurance: Principle of subrogation/Indemnity applies. Assurance: Principle of subrogation/Indemnity does not apply."
+    - "Insurance: Cannot be used as a saving scheme. Assurance: Can be used as a saving scheme."
+    - "Insurance: Protection is offered to property. Assurance: Protection is offered to life."
+  Marks: 4
+  QuestionNumber: 11
+
+- Question: "Give four ways in which consumers benefit from advertising."
+  Answer:
+    - "Consumers get entertained from the adverts."
+    - "It informs consumers about offers in the market."
+    - "Consumers are guided on where to get the products."
+    - "Consumers enjoy a variety of products."
+    - "Competitions lead to quality products."
+    - "Consumers are made aware of the products in the market."
+    - "Consumers get cheaper prices due to competition."
+  Marks: 4
+  QuestionNumber: 12
+
+- Question: "State four features of monopolistic competition."
+  Answer:
+    - "Firms set similar prices."
+    - "There is free entry and exit."
+    - "Factors of production are not controlled."
+    - "There is perfect knowledge in the market."
+    - "Sellers sell differentiated products."
+    - "There are many buyers and sellers."
+    - "Actions of one firm are closely monitored by other firms."
+  Marks: 4
+  QuestionNumber: 13
+  
+- Question: "Outline four requirements for one to start a limited liability company as one of the forms of business units."
+  Answer:
+    - "Memorandum of association."
+    - "Article of association."
+    - "List of directors."
+    - "Declaration of compliance."
+    - "Statement of share capital showing the total amount of capital that the company wishes to raise and its division into shares."
+  Marks: 4
+  QuestionNumber: 14
+  
+- Question: "State four characteristics of chain stores type of retail business."
+  Answer:
+    - "Similar shop appearance and name."
+    - "Sell similar types of products."
+    - "Charge standard prices for their products."
+    - "All purchases are centralized."
+    - "Goods are freely transferable from one branch to another."
+    - "Administration is done from the head office."
+    - "Operate several branches in the country."
+    - "Sales are decentralized."
+  Marks: 4
+  QuestionNumber: 15
+  
+- Question: |
+    "Identify the type of communication described below."
+    "a) Principal addressing students on assembly"
+    "b) Rumors going round that the most hardworking employee will be awarded"
+    "c) Student group discussion in a class"
+    "d) An employee seeking permission"
+  Answer:
+    - "a) Principal addressing students on assembly: Downward communication."
+    - "b) Rumors going round that the most hardworking employee will be awarded: Informal communication."
+    - "c) Student group discussion in a class: Horizontal/lateral communication."
+    - "d) An employee seeking permission: Upward communication."
+  Marks: 4
+  QuestionNumber: 16
+  
+- Question: "Highlight four reasons why E-mail is increasingly becoming popular as a means of communication."
+  Answer:
+    - "It is relatively cheap."
+    - "It is fast."
+    - "It can be used for future reference."
+    - "There is easy access to information."
+    - "There is easy retrieval of information."
+    - "It is confidential in nature."
+    - "It has immediate feedback."
+    - "It is used worldwide."
+    - "One can send detailed information through attachment of documents."
+  Marks: 4
+  QuestionNumber: 17
+
+- Question: "Give four implications of a declining population."
+  Answer:
+    - "Less government expenditure on social amenities."
+    - "Increased job opportunities in a country."
+    - "Less pressure on economic resources."
+    - "Leads to even distribution of income in a country."
+    - "Improved standards of living of the people."
+    - "Less manpower."
+    - "Less market/demand."
+    - "Underutilization of resources."
+  Marks: 4
+  QuestionNumber: 18
+  
+- Question: "Highlight four items that affect the asset stock."
+  Answer:
+    - "Sales."
+    - "Sales returns."
+    - "Purchases."
+    - "Purchases returns."
+  Marks: 4
+  QuestionNumber: 19
+
+- Question: |
+    "Classify the following accounts into personal, private, real or nominal."
+    "a) Office equipment"
+    "b) Debtor"
+    "c) Capital"
+    "d) Salaries"
+  Answer:
+    - "Office equipment: Real account."
+    - "Debtor: Personal account."
+    - "Capital: Private account."
+    - "Salaries: Nominal account."
+  Marks: 4
+  QuestionNumber: 20
+
+- Question: "Omolo insured his house worth sh. 5,000,000 for sh. 4,000,000. His house was damaged by fire to the tune of sh. 3,000,000. Calculate how much Omolo was compensated."
+  Answer: |
+    "Compensation = (Value of Policy x Loss) / Value of Property"
+    "Compensation = (4,000,000 x 3,000,000) / 5,000,000"
+    "Compensation = 2,400,000"
+  Marks: 4
+  QuestionNumber: 22
+
+- Question: "Identify any four trade malpractices that consumers need protection against."
+  Answer:
+    - "False advertisement."
+    - "Overpricing."
+    - "False measurements."
+    - "Misleading advert."
+    - "Poor hygienic standards."
+    - "Unhealthy structures."
+    - "Hoarding."
+    - "Breach of contract."
+  Marks: 4
+  QuestionNumber: 23
+  
+- Question: "Outline four functions of commercial banks."
+  Answer:
+    - "Accepting deposits."
+    - "Transfer of money."
+    - "Lending money."
+    - "Collecting payments on behalf of customers."
+    - "Remitting payments on behalf of customers."
+    - "Facilitating trade."
+    - "Providing safe custody of valuables."
+    - "Acting as trustees."
+    - "Provide foreign exchange services."
+    - "Acting as referees for their clients."
+  Marks: 4
+  QuestionNumber: 24
+  
+- Question: "State four types of capital in a business."
+  Answer:
+    - "Working capital."
+    - "Borrowed capital."
+    - "Capital owned."
+    - "Capital employed."
+    - "Fixed capital."
+  Marks: 4
+  QuestionNumber: 25
