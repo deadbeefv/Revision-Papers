@@ -1,0 +1,321 @@
+- Question: "Study the information given below and use it to answer the questions that follow."
+  Subquestions:
+    - Subquestion: "i) Represent the three dyes on a round paper chromatography."
+      Answer:
+        Image: "assets/chemistry.pp1.q1.png"
+      Marks: 2
+    - Subquestion: "ii) Name one industrial application of chromatography."
+      Answer: "Detecting/identifying poisonous substances present in food substances/purifying natural"
+      Marks: 1
+  QuestionNumber: 1
+  Marks: 3
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) What is a fuel?"
+      Answer: "A substance that produces a substantial amount of energy when burnt."
+      Marks: 1
+    - Subquestion: "b) Calculate the heat value of ethanol if its molar enthalpy of combustion is -1360 kJ/mol. (C=12.0, O=16.0, H=1.0)"
+      Answer:
+        - "RFM of C2H5OH = 12 x 2 + 1 x 6 + 16 = 46 (1/2)"
+        - "Heat value = (1/2)"
+        - "29.5652 kJ"
+      Marks: 2
+  QuestionNumber: 2
+  Marks: 3
+
+- Question: "Study the set up below and use it to answer the questions that follow."
+  Image: "assets/chemistry.pp1.q3.png"
+  Subquestions:
+    - Subquestion: "a) What physical property of calcium metal is demonstrated in the diagram above?"
+      Answer: "Denser than water"
+      Marks: 1
+    - Subquestion: "b) What would be observed if water was replaced with dilute Sulphuric (VI) acid?"
+      Answer:
+        - "Effervescence/gas bubbles (1/2) which stops immediately (1/2) or white precipitate with evolution of gas bubbles/effervescences"
+        - "Calcium reacts with sulphuric acid to form an insoluble calcium sulphate and hydrogen gas (1)"
+      Marks: 2
+  QuestionNumber: 3
+  Marks: 3
+
+- Question: "A hydrocarbon decolorizes chlorine gas in presence of ultra violet light but does not decolorize acidified potassium manganate (VII) solution."
+  Subquestions:
+    - Subquestion: "i) Name the homologous series to which the hydrocarbon belongs."
+      Answer: "Alkanes"
+      Marks: 1
+    - Subquestion: "ii) Draw the structural formula and name the fourth member of the homologous series to which the hydrocarbon belongs?"
+      Answer: 
+        Image: "assets/chemistry.pp1.q4.png"
+      Marks: 2
+  QuestionNumber: 4
+  Marks: 3
+  Section: None
+
+- Question: "Explain why a solution of hydrogen chloride in water turns blue litmus paper red but a solution of hydrogen chloride in methylbenzene has no effect on litmus paper."
+  Answer: "HCl(g) ionizes in water to form an acidic solution, which can turn blue litmus paper red due to the presence of hydrogen ions (H+). However, in methylbenzene, HCl(g) gas remains molecular and does not ionize. As a result, the solution of hydrogen chloride in methylbenzene has no effect on litmus paper since it does not contain hydrogen ions to exhibit acidic properties."
+  QuestionNumber: 5
+  Marks: 2
+
+- Question: "The diagram below represents a cross section of the apparatus used to extract sulphur from its deposits. Study it and answer the questions that follow."
+  Image: "assets/chemistry.pp1.q6.png"
+  Subquestions:
+    - Subquestion: "a) State the role of the substance that is passed through"
+      Subquestions:
+        - Subquestion: "(i) A"
+          Answer: "Superheated water is used to melt sulphur deposits"
+          Marks: 1
+        - Subquestion: "(ii) C"
+          Answer: "Hot air used to force the mixture of molten sulphur"
+          Marks: 1
+    - Subquestion: "b) Give one reason why the method shown in the diagram is suitable for extraction of sulphur."
+      Answer: "The soil structure is weak and can cave in case of open mining."
+      Marks: 1
+  QuestionNumber: 6
+  Marks: 3
+
+- Question: "Explain how you would obtain magnesium carbonate from a mixture of magnesium carbonate and sodium carbonate."
+  Answer: "Add water to the mixture, filter the mixture to separate the insoluble magnesium carbonate, wash the residue with distilled water, and dry the residue between filter papers."
+  QuestionNumber: 7
+  Marks: 2
+
+- Question: "20g of potassium carbonate were dissolved in 50cm3 of water in a conical flask. Lemon juice was then added dropwise while shaking until there was no further observable change."
+  Subquestions:
+    - Subquestion: "a) Explain the observation that was made in the conical flask when the reaction was in progress."
+      Answer: "Lemon reacted with the carbonate to produce carbon (IV) oxide gas (effervescence)."
+      Marks: 1
+    - Subquestion: "b) What observation would be made if lemon juice had been added to copper turnings in a conical flask? Give a reason."
+      Answer: "No observable change/effervescence/gas bubbles. Lemon juice is not an oxidizing agent."
+      Marks: 2
+  QuestionNumber: 8
+  Marks: 3
+
+- Question: "Explain why a burning magnesium continues to burn in a gas jar full of carbon (IV) oxide while a burning candle would be extinguished."
+  Answer: "The intense heat of the reaction of magnesium decomposes CO2(g) into carbon and oxygen. The oxygen formed further combines with magnesium to form magnesium oxide."
+  QuestionNumber: 9
+  Marks: 2
+
+- Question: "8.4g of carbon (IV) oxide and 3.42g of water are formed when a hydrocarbon is burnt completely in oxygen. Determine the empirical formula of the hydrocarbon. (H=1.0; C=12.0; O=16.0)"
+  Answer:
+    - "CxHy + O2(g) -> XCO2(g) + H2O(l)"
+    - "Mass moles: C = 8.4, H = 3.42"
+    - "Moles: C = 0.1909, H = 0.19"
+    - "Mole ratio: X = 1, Y = 2"
+    - "Empirical formula = CH2"
+  QuestionNumber: 10
+  Marks: 3
+
+- Question: "The melting point of nitrogen is -196°C, while that of sodium is 98°C. In terms of structure and bonding, explain the differences in the melting points of nitrogen and sodium."
+  Answer:
+    - "Nitrogen has a simple molecular structure with weak van der Waals/intermolecular forces, which are easily overcome by heat."
+    - "Sodium metal has a metallic structure with stronger metallic bonds, which require a lot of heat to break."
+  QuestionNumber: 11
+  Marks: 2
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) What is an amphoteric substance?"
+      Answer: "A substance that displays both acidic and basic properties."
+      Marks: 1
+    - Subquestion: "b) Identify the reagent that acts as a base in the equation below. Give a reason for your answer."
+      Answer: "H2O2(aq)"
+      Marks: 2
+  QuestionNumber: 12
+  Marks: 3
+
+- Question: "In the industrial manufacture of ammonia gas by the Haber process, nitrogen and hydrogen gases are reacted together."
+  Subquestions:
+    - Subquestion: "a) State any two conditions necessary for ammonia to be formed in the Haber process."
+      Answer: 
+        - "Temperature of 450-500°C"
+        - "Pressure of 200 atmospheres"
+        - "Iron catalyst"
+      Marks: 1
+    - Subquestion: "b) Nitrogen and hydrogen must be purified before they are reacted. Give a reason."
+      Answer: "Impurities will poison the iron catalyst."
+      Marks: 1
+    - Subquestion: "c) Other than the manufacture of fertilizers, state one use of ammonia."
+      Answer: 
+        - "Make nitric acid"
+        - "Refrigeration"
+        - "Softening water"
+        - "Make hydrazine (rocket fuel)"
+      Marks: 1
+  QuestionNumber: 13
+  Marks: 3
+
+- Question: "Describe how you would prepare crystals of potassium sulfate starting with 100cm3 of 0.5M potassium hydroxide."
+  Answer: "React the 100cm3 of potassium hydroxide with 50cm3 of 0.5M H2SO4(aq), evaporate/heat the resulting solution to saturation, leave the saturated solution in air to form crystals, and dry the crystals by pressing a filter paper on them."
+  QuestionNumber: 14
+  Marks: 3
+
+- Question: "Distinguish between atomic mass and relative atomic mass."
+  Answer:
+    - "Atomic mass refers to the total number of protons and neutrons in an atom of an element."
+    - "Relative atomic mass is the average mass of an atom of the element compared with an atom of carbon-12."
+    - "Relative atomic mass (RAM) is the average mass of one atom of an element compared to the mass of one atom of carbon-12."
+  QuestionNumber: 15
+  Marks: 2
+
+- Question: "Study the diagram below and answer the questions that follow:"
+  Image: "assets/chemistry.pp2.q16.png"
+  Subquestions:
+    - Subquestion: "a) (ii) Name one chemical and one physical property of hydrogen being demonstrated in the set-up above."
+      Answer: "Burns in air/Reacts with air when burnt"
+      Marks: 1
+    - Subquestion: "ii) Write a chemical equation for the reaction taking place."
+      Answer: "2H2(g) + O2(g) -> 2H2O(g)"
+      Marks: 1
+    - Subquestion: "b) Name any other substance that can be used in place of concentrated sulfuric (VI) acid."
+      Answer: "Anhydrous calcium chloride/calcium oxide lamps"
+      Marks: 1
+    - Subquestion: "c) Give a reason why it is necessary to burn the hydrogen gas as shown in the set-up."
+      Answer: "Explodes in air/when mixed with air"
+      Marks: 1
+  QuestionNumber: 16
+  Marks: 4
+
+- Question: "The diagram below shows a simple distillation to separate water and ethanol."
+  Image: "assets/chemistry.pp1.q17.png"
+  Subquestions:
+    - Subquestion: "a) State one of the conditions for the above process to take place."
+      Answer: "Two liquids must be miscible or two liquids must have different boiling points."
+      Marks: 1
+    - Subquestion: "b) Ethanol collected is 95% pure. Secondary distillation is carried out in which calcium metal is placed in ethanol to react with water. Give a reason why the following cannot be used."
+      Subquestions:
+        - Subquestion: "i. Sodium"
+          Answer: "React with both water and ethanol"
+          Marks: 1
+        - Subquestion: "ii. Copper"
+          Answer: "Copper cannot react with water"
+          Marks: 1
+  QuestionNumber: 17
+  Marks: 4
+
+- Question: "The table below shows tests carried out on a sample of water and the results obtained."
+  Subquestions:
+    - Subquestion: "a) Identify the anion present in the water."
+      Answer: "SO4 2-"
+      Marks: 1
+    - Subquestion: "b) Write an ionic equation for the reaction in III"
+      Answer: "Ba2+(aq) + SO42-(aq) -> BaSO4(s)"
+      Marks: 1
+    - Subquestion: "c) Write the formula of the complex ion formed in II"
+      Answer: "Zn(NH3)4 2+"
+      Marks: 1
+  QuestionNumber: 18
+  Marks: 3
+
+- Question: "1.9g of Magnesium chloride was dissolved in water. Silver nitrate solution was added till excess. Calculate the mass of silver nitrate that was added for complete reaction. (MgCl2=95, N=14, O=16, Ag=108)"
+  Answer:
+    - "(1.9g / 95g/mol) * 2 Ag/mol = 0.04g of Ag"
+    - "The mass of silver nitrate that was added for complete reaction is 0.04g."
+  QuestionNumber: 19
+  Marks: 3
+
+- Question: "In an experiment, 40cm3 of 0.5M nitric acid was reacted with excess Sodium Carbonate, and the volume of Carbon (IV) Oxide produced was recorded with time. In another experiment, the same volume and concentration of ethanoic acid were reacted with excess Sodium Carbonate, and the volume of Carbon (IV) Oxide produced was recorded with time."
+  Subquestions:
+    - Subquestion: "a) Why was Sodium Carbonate used in excess?"
+      Answer: "To ensure all the acid has reacted."
+      Marks: 1
+    - Subquestion: "b) On the graph below sketch and label the curves of the volumes of Carbon (IV) Oxide produced against time."
+      Image: "assets/chemistry.pp1.q20.png"
+      Answer:
+        Image: "assets/chemistry.pp1.q20a.png"
+      Marks: 2
+  QuestionNumber: 20
+  Marks: 3
+
+- Question: "The figure below is an energy level diagram for the reaction. Explain how the following conditions would affect the yield of AB."
+  Image: "assets/chemistry.pp1.q21.png"
+  Subquestions:
+    - Subquestion: "i) Increase in pressure."
+      Answer: 
+        - "The yield of AB"
+        - "The forward reaction is accompanied by a decrease in volume."
+        - "Equilibrium shifts to the right following the forward reaction."
+      Marks: 2
+    - Subquestion: "ii) Decrease in temperature."
+      Answer: 
+        - "The yield of AB"
+        - "The forward reaction is exothermic."
+        - "Decrease in temperature favors the forward reaction, equilibrium shifting to the right."
+      Marks: 2
+  QuestionNumber: 21
+  Marks: 4
+
+- Question: "A white solid K was heated. It produced a brown gas A and another gas B which relights a glowing splint. The residue left was yellow even after cooling."
+  Subquestions:
+    - Subquestion: "a) Identify gases A and B."
+      Answer: "A - nitrogen (IV) oxide / NO2(g); B - Oxygen / O2(g)"
+      Marks: 2
+    - Subquestion: "b) Write a balanced chemical equation for the decomposition of solid K."
+      Answer: "2Pb(NO3)2(s) -> 2PbO(s) + 4NO2(g)"
+      Marks: 2
+  QuestionNumber: 22
+  Marks: 4
+
+- Question: "The scheme below shows some reaction sequence starting with solid M."
+  Image: "assets/chemistry.pp1.q23.png"
+  Subquestions:
+    - Subquestion: "a) Name solid M."
+      Answer: "Zinc Metal"
+      Marks: 1
+    - Subquestion: "b) Write the following of a complex ion present in solution Q."
+      Answer: "Zn(NH3)4 2+"
+      Marks: 1
+    - Subquestion: "Write an ionic equation of the reaction between barium nitrate and solution N."
+      Answer: "Ba2+(aq) + SO42-(aq) -> BaSO4(s)"
+      Marks: 1
+  QuestionNumber: 23
+  Marks: 3
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) What is meant by a saturated solution?"
+      Answer: "A solution in which no more solute can be dissolved in the solvent."
+      Marks: 1
+    - Subquestion: "b) In an experiment to determine the solubility of solid Y in water at 30°C, the following results were obtained..."
+      Answer: 
+        - "Mass of solid Y = 30.4g - 26.2g = 4.2g"
+        - "Mass of water in the solution = 42.4g - 30.4g = 12g"
+        - "100g of water dissolves 4.2g of solid Y"
+        - "Thus, 100g of water dissolves = (100 x 4.2g) / 12g = 35g/100g H2O"
+        - "The solubility of solid Y at 30°C in grams per 100g of water is 35g/100g H2O."
+      Marks: 2
+  QuestionNumber: 24
+  Marks: 3
+
+- Question: "Compare the electrical conductivity of dilute Sulfuric (VI) acid and concentrated Sulfuric (VI) acid. Explain your answer."
+  Answer: "Dilute Sulfuric (VI) acid has a higher electrical conductivity than concentrated Sulfuric (VI) acid. This is because dilute Sulfuric (VI) acid has more ions in solution compared to concentrated Sulfuric (VI) acid."
+  Marks: 2
+  QuestionNumber: 26
+  Marks: 2
+
+- Question: "Draw a well-labelled diagram of a setup used to prepare and collect dry Sulphur IV oxide."
+  Answer:
+    Image: "chemistry.pp1.q27.png"
+  Marks: 3
+  QuestionNumber: 27
+
+- Question: "The molar heat of formation of carbon (II) oxide is -105 kJ/mol, the molar heat of combustion of carbon is -393 kJ/mol. By using an energy cycle diagram, determine the molar heat of combustion of carbon (II) oxide."
+  Answer:
+    - "ΔHθf (CO) + ΔHθc(CO) = ΔHθc(C)"
+    - "-105 + ΔHθc(C) = -393"
+    - "ΔHθc = -393 - 105"
+    - "The molar heat of combustion of carbon (II) oxide is -188 kJ/mol."
+  Marks: 3
+  QuestionNumber: 28
+
+- Question: "In an experiment, a small amount of charcoal was added into a test tube and 5cm3 of concentrated nitric (V) acid added, then warmed."
+  Subquestions:
+    - Subquestion: "(i) State the observation that was made."
+      Answer: "Brown fumes of nitrogen (IV) oxide."
+      Marks: 1
+    - Subquestion: "(ii) Explain the observation made in (i) above."
+      Answer: "Nitric (V) acid is a strong oxidizing agent and thus oxidizes carbon to carbon (IV) oxide and itself is reduced to nitrogen (IV) oxide."
+      Marks: 1
+    - Subquestion: "(iii) Write an equation for the reaction that took place."
+      Answer: "C(s) + HNO3(l) -> 4NO2(g) + CO2(g) + 2H2O(l)"
+      Marks: 1
+  QuestionNumber: 29
+  Marks: 3

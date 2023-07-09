@@ -9,6 +9,7 @@ def validate_yaml(file):
         try:
             result = load(subject)
         except ParserError:
+            raise ParserError
             return False
     return True
 

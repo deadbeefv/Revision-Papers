@@ -1,0 +1,293 @@
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) Consider the following reaction:
+      A2(g) + B2(g) -> 2AB(g), ΔH = +75 kJ
+      Sketch an energy level diagram showing the relative activation energies for the catalyzed and uncatalyzed reactions using the axes below."
+      Marks: 2
+      Answer: 
+        Image: assets/chemistry.pp2.q1.png
+    - Subquestion: "b) Given that: ΔHf (Al2O3) = -1590 kJmol-1, ΔHf (Cr2O3) = -1134 kJmol-1 Calculate the heat of reaction for Al2O3(s) + Cr2O3(s) -> Al2O3(s) + 2CrO2(s)"
+      Answer: 
+        - "ΔH = ΔHf (products) - ΔHf (reactants)"
+        - "ΔH = [(-1134 kJmol-1) + (-1590 kJmol-1)] - [(-1590 kJmol-1) + (-1134 kJmol-1)]"
+        - "ΔH = -2724 kJmol-1"
+      Marks: 2
+    - Subquestion: "c) The following data was obtained during an experiment"
+      Subquestions:
+        - Subquestion: "i) How was the mass of ethanol that burnt determined?"
+          Answer: "By subtracting the mass of the burner and ethanol before igniting from the mass of the burner and ethanol after the burning"
+          Marks: 1
+        - Subquestion: "ii) How much heat was required to raise the temperature of water from 23.5 0C to 28.0 0C?"
+          Answer: "Heat produced ΔH = mass of water (m) x specific heat capacity (c) x ΔT = 200 x 4.2 x 4.5 = 3780 Joules = 3.78 kJ"
+          Marks: 2
+        - Subquestion: "iii) Two assumptions were made in calculating the enthalpy of combustion for ethanol. State them."
+          Answer:
+            - "No heat loss to the environment"
+            - "The calorimeter did not absorb any heat"
+          Marks: 1
+        - Subquestion: "iv) Determine the molar enthalpy of combustion of ethanol. (C=12, H=1, O=16)"
+          Answer: "Moles of ethanol used = 0.2/46 = 0.0043 moles; ΔH = 3.78 kJ; 1 mole = ΔH / Moles of ethanol used = 3.78 x 1 / 0.0043 = -879.069 kJ/mol"
+          Marks: 2
+        - Subquestion: "v) Write a thermochemical equation for the combustion of ethanol given the accurate value for enthalpy of combustion is -1368 kJmol-1."
+          Answer: "C2H5OH + 3O2(g) → 2CO2(g) + 3H2O(l)  ΔH = -1368 kJmol-1"
+          Marks: 1
+  QuestionNumber: 1
+  Marks: 11
+
+- Question: "Two half cells were connected as shown to form a voltaic cell. The reduction potentials are given"
+  Image: "assets/chemistry.pp2.q2.png"
+  Subquestions:
+    - Subquestion: "a) Calculate the e.m.f of the cell."
+      Answer: "EREDOX = ERED - EOX = -0.13 - (-0.44) = +0.31V"
+      Marks: 1
+    - Subquestion: "b) Sodium Chloride is used as the salt bridge. State the two functions of the salt bridge."
+      Answer:
+        - "Completes the circuit"
+        - "Maintains balance of charges/ions on both half cells"
+      Marks: 2
+    - Subquestion: "c) Show the direction of the electron flow in the external circuit."
+      Answer: "From the anode (Pb) to the cathode (Fe)"
+      Marks: 1
+    - Subquestion: "d) The e.m.f of the cell will reduce with time. Give a reason for this."
+      Answer: "Due to depletion of reactants or accumulation of reaction products"
+      Marks: 1
+    - Subquestion: "e) During electrolysis of water acidified with Sulphuric acid, two gases were produced at the electrodes:"
+      Subquestions:
+        - Subquestion: "i) State which ions are preferentially discharged at the anode. Explain with aid of half ionic equations."
+          Answer:
+            - "OH-(aq) from water (H2O)"
+            - "4OH-(aq) → 2H2O(l) + O2(g) + 4e"
+            - "OH- ions are selectively discharged instead of SO42- ions at the anode"
+          Marks: 2
+        - Subquestion: "ii) Calculate the volume of the gases at S.T.P produced when a current of 0.025A is passed for 4 hours. (1 Faraday = 96500C)"
+          Answer:
+            - "Quantity of electricity (in Coulombs) = Current (I) × Time (t)"
+            - "Converting time to seconds: 4 hours = 4 × 60 × 60 seconds"
+            - "Quantity of electricity = 0.025A × (4 × 60 × 60) seconds = 360C"
+            - "Anode: 4 moles of electrons = 4 Faradays = 96500 × 4 C"
+            - "Volume at S.T.P = (Quantity of electricity × Volume of 1 mole of gas at S.T.P) / (Charge of 1 mole of electrons)"
+            - "Volume at S.T.P (anode) = (360C × 22400cm³) / (96500 × 4) = 20.89cm³"
+            - "Cathode: Ratio 1:2"
+            - "Volume at S.T.P (cathode) = 20.89cm³ × 2 = 41.78cm³"
+          Marks: 3
+  QuestionNumber: 2
+  Marks: 11
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: |
+        "a) The fermentation of glucose is catalysed by enzymes from yeast. Yeast is added to aqueous glucose, the solution starts to bubble and becomes cloudy as more yeast cells are formed." 
+        "C6H12O6(aq)  ->  2C2H5OH(aq)+2CO2(g)"
+        "The reaction is exothermic. Eventually, the fermentation stops when the concentration of ethanol is about 12%."
+      Subquestions:
+        - Subquestion: "(i) On a large scale, the reaction mixture is cooled. Suggest a reason why this is necessary."
+          Answer: "To kill yeast or denature enzymes (due to an increase in temperature)"
+          Marks: 1
+        - Subquestion: "(ii) Why does the fermentation stop? Suggest one reason."
+          Answer: "All glucose used up; yeast killed or denatured or damaged by ethanol/alcohol"
+          Marks: 1
+        - Subquestion: "(iii) What technique is used to concentrate the aqueous ethanol?"
+          Answer: "Fractional distillation"
+          Marks: 1
+    - Subquestion: "b) A compound X contains carbon, hydrogen, and oxygen only. X contains 54.54% of carbon by mass, 9.09% of hydrogen by mass, and 36.37% of oxygen by mass. (C=12, O=16, H=1)"
+      Subquestions:
+        - Subquestion: "(i) Determine the empirical formula of compound X."
+          Answer:
+            Image: "assets/chemistry.pp2.q3b.png"
+          Marks: 2
+        - Subquestion: "(ii) Compound X has a relative molecular mass of 88. Draw the structural formula of compound X."
+          Answer:
+            Image: "assets/chemistry.pp2.q3b.i.png"
+          Marks: 2
+    - Subquestion: "c) The table below gives formulas of three organic compounds A, B, and CH. Giving a reason in each case, select the letter(s) which represent a compound that "
+      Image: "assets/chemistry.pp2.q3c.png"
+      Subquestions:
+        - Subquestion: "i) Decolourizes acidified potassium manganate (VII)."
+          Answer: "B Its an alkanol hence oxidized to alkanoic acid"
+          Marks: 1
+        - Subquestion: "ii) Gives effervescence with sodium hydrogen carbonate."
+          Answer: "A Reacts to produce CO2"
+          Marks: 1
+        - Subquestion: "iii) Undergoes substitution reaction with chlorine gas."
+          Answer: "C its saturated"
+          Marks: 1
+    - Subquestion: "d) The following is a small reaction of polystyrene polymer. Study it and answer the questions that follow."
+      Image: "assets/chemistry.pp2.q3.d.png"
+      Subquestions:
+        - Subquestion: "(i) Draw the structure of the monomer unit of polystyrene."
+          Answer:
+            Image: "assets/chemistry.pp2.q3.d.i.PNG"
+          Marks: 1
+        - Subquestion: "(ii) Calculate the number of monomers used to form the polystyrene of a relative molecular mass of 18096. (H = 1, C = 12)"
+          Answer: "18096 / 104 = 174 monomers"
+          Marks: 1
+  QuestionNumber: 3
+  Marks: 13
+
+- Question: "An experiment was carried out using magnesium ribbon and dilute hydrochloric acid of different concentrations. The time needed to produce 50cm3 of the gas for every experiment was recorded in a table."
+  Subquestions:
+    - Subquestion: "a) Complete the table above for 1/time."
+      Answer:
+        Image: "assets/chemistry.pp2.q4a.PNG"
+      Marks: 4
+    - Subquestion: "b) Plot a graph of rate i.e 1/time against concentration."
+      Answer: 
+        Image: "assets/chemistry.pp2.q4b.PNG"
+      Marks: 3
+    - Subquestion: "c) From your graph, determine the concentration needed to produce 50cm3 of hydrogen gas when time is 15.0 seconds."
+      Answer: "Concentration needed = 1.1625 [units]"
+      Marks: 1
+    - Subquestion: "d) From your graph, state the relationship between the rate of reaction and concentration. Give a reason."
+      Answer: "The rate of reaction increases with an increase in concentration."
+      Marks: 1
+    - Subquestion: |
+        "e) A state of equilibrium between dichromate(VI) and chromate ions is established as shown below:"
+        "Cr2O72-(aq) [Orange]  + 2OH-(aq)	<--->  2CrO42-(aq) [Yellow]	+  H2O(l)"
+      Subquestions:
+        - Subquestion: "i) What is meant by dynamic equilibrium?"
+          Answer:
+            - "Dynamic equilibrium is a reaction in which the rate of the forward reaction is equal to the rate of the backward reaction."
+            - "It is a balance of the rate of formation of products and reactants."
+          Marks: 1
+        - Subquestion: "ii) State and explain the observation made when a few pellets of Hydrochloric acid are added to the equilibrium mixture."
+          Answer:
+            - "The solution mixture becomes more orange in color."
+            - "When Hydrochloric acid (H+) is added to the equilibrium mixture, a stress is created on the reactant side with the OH- ions."
+            - "H+ ions react with OH- ions to form water."
+            - "The equilibrium shifts backward to the left to replace the OH- ions that have reacted with the H+ ions."
+            - "More Cr2O7 ions are formed in the process."
+          Marks: 2
+  QuestionNumber: 4
+  Marks: 12
+
+- Question: "Answer the questions below."
+  Subquestions:
+    - Subquestion: "I) The table below shows properties of some elements represented by symbols W, X, Y, and Z. Study the information in the table and answer the questions that follow"
+      Image: "assets/chemistry.pp2.q5i.png"
+      Subquestions:
+        - Subquestion: "a) Write down the electron arrangement for elements W and X."
+          Answer:
+            - "W: 2"
+            - "X: 2, 8"
+          Marks: 1
+        - Subquestion: "b) In which group of the periodic table are the elements in the table above? Give the name of the group."
+          Answer:
+            - "Group VII"
+            - "Halogens"
+          Marks: 2
+        - Subquestion: "c) Explain why the atomic radius of W is smaller than that of X."
+          Answer: "X has 2 energy levels (or 8 electrons) compared to W with 1 energy level (or 2 electrons)."
+          Marks: 1
+        - Subquestion: "d) State one use of element X."
+          Answer: "Used in making neon advertising colored signs, high voltage indicators, gas lasers, and as an economical refrigerant (liquid helium)."
+          Marks: 1
+    - Subquestion: "II. The section below represents part of the periodic table. Study it and answer the questions that follow. The letters are not the actual symbol of the elements."
+      Image: "assets/chemistry.pp2.q5ii.png"
+      Subquestions:
+        - Subquestion: "a) Select the most reactive non-metal."
+          Answer: "M"
+          Marks: 1
+        - Subquestion: "b) Which of the elements has the greatest tendency of forming covalent compounds in nature? Explain your choice."
+          Answer: "Q or H in group IV has a valency of 4, which allows it to share its 4 pairs of electrons, making it more likely to form covalent compounds."
+          Marks: 1
+        - Subquestion: "c) Explain why the atomic radius of T is smaller than that of M."
+          Answer: "T has a higher nuclear charge (more protons) than M, which attracts the outermost electrons closer to the nucleus, reducing the atomic radius."
+          Marks: 2
+        - Subquestion: "d) Compare the electrical conductivity of element X and B."
+          Answer: "B has higher electrical conductivity due to having 3 delocalized electrons, whereas X has only 1 delocalized electron."
+          Marks: 2
+  QuestionNumber: 5
+  Marks: 11
+
+- Question: "Extraction of iron involves two main processes, smelting and refining. Below is the blast furnace which is used to smelt iron from its ore."
+  Image: "assets/chemistry.pp2.q6.png"
+  Subquestions:
+    - Subquestion: "a) (i) The chief ore is Haematite. Name one other ore used in the extraction of iron."
+      Answer: "Magnetite / Siderite"
+      Marks: 1
+    - Subquestion: "   (ii) Name the reducing agent in the process."
+      Answer: "Carbon(II)oxide"
+      Marks: 1
+    - Subquestion: "  (iii) What is the role of the hot air blast in the process?"
+      Answer:
+        - "Reacts with coke/charcoal/carbon to form carbon(IV)oxide gas."
+        - "Raises the temperature at the bottom of the furnace to about 2000K (1650oC)."
+      Marks: 2
+    - Subquestion: "b) Write equations for the reactions that take place at the region marked A, B, and C."
+      Answer:
+        - "A: C(s) + O2(g) → CO2(g)"
+        - "B: Fe2O3(s) + 3CO(g) → 2Fe(s) + CO2(g)"
+        - "C: Fe3O4(s) + 4CO(g) → 3Fe(s) + 4CO2(g)"
+        - "C: CaCO3(s) → CaO(s) + CO2(g)"
+      Marks: 3
+    - Subquestion: "c) What is the purpose of limestone in the extraction process?"
+      Answer: "Limestone decomposes to quicklime/calcium oxide, which reacts to remove impurities and produce more carbon(IV)oxide gas."
+      Marks: 1
+    - Subquestion: "d) Write equations to show how impurities are removed from the ore."
+      Answer:
+        - "CaO(s) + SiO2(s) → CaSiO3(l)"
+        - "CaO(s) + Al2O3(s) → CaAl2O4(l)"
+      Marks: 2
+    - Subquestion: "e) State one environmental effect of the process."
+      Answer:
+        - "Carbon(IV)oxide (CO2) gas is a greenhouse gas that causes/increases global warming if allowed to escape/leak from the furnace."
+        - "Carbon(II)oxide (CO) gas is a highly poisonous/toxic odorless gas that can kill on leakage. It is preferentially absorbed by the hemoglobin in mammals instead of oxygen to form a stable compound that reduces free hemoglobin in the blood."
+        - "Haematite (Fe2O3), Magnetite(Fe3O4), and Siderite (FeCO3) are extracted through quarrying/open-cast mining that causes soil/environmental degradation."
+      Marks: 1
+  QuestionNumber: 6
+  Marks: 9
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) Read the following passage and answer the questions."
+      Subquestions:
+        - Subquestion: "a) Identify gas L"
+          Answer: "Ammonia"
+          Marks: 1
+        - Subquestion: "b) What is K most likely to be?"
+          Answer: "Ammonium chloride"
+          Marks: 1
+        - Subquestion: "c) Write an equation for the reaction between K and slaked lime"
+          Answer: "Ca(OH)2(s) + NH4Cl(s) → CaCl2(aq) + H2O(l) + 2NH3(g)"
+          Marks: 1
+        - Subquestion: "d) Write an ionic equation for the reaction with copper(II)sulphate forming the deep blue solution"
+          Answer: "Cu(OH)2(s) + 4NH3(aq) → [Cu(NH3)4]2+(aq) + 2OH–(aq)"
+          Marks: 1
+    - Subquestion: "b) Study the flow chart below and answer questions that follow:"
+      Image: "assets/chemistry.pp2.q7b.png"
+      Subquestions:
+        - Subquestion: "i) State one source of gas B"
+          Answer: "Fractional distillation of liquid air"
+          Marks: 1
+        - Subquestion: "ii) Name the catalysts used in:"
+          Subquestions:
+            - Subquestion: "a) Step I"
+              Answer: "Finely divided Iron"
+              Marks: 1
+            - Subquestion: "b) Step III"
+              Answer: "Platinum or platinum rhodium"
+              Marks: 1
+        - Subquestion: "iii) Write chemical equations for reactions in:"
+          Subquestions:
+            - Subquestion: "a) Step I"
+              Answer: "N2(g) + 3H2(g) → 2NH3(g)"
+              Marks: 1
+            - Subquestion: "b) Step II"
+              Answer: "2NH3(g) + 3CuO(s) → N2(g) + 3H2O(l) + 3Cu(s)"
+              Marks: 1
+            - Subquestion: "c) Step V"
+              Answer: "NH3(aq) + HNO3(aq) → NH4NO3(aq)"
+              Marks: 1
+        - Subquestion: "iv) Identify any other gas that can be used instead of Ammonia in step II"
+          Answer: "Hydrogen/Carbon(II)oxide"
+          Marks: 1
+        - Subquestion: "v) State one use of gas Q"
+          Answer:
+            - "Used in the Haber process in the manufacture of ammonia."
+            - "Due to its inert nature, it is mixed with argon to fill electric bulbs (to avoid soot formation)."
+            - "In liquid state it is used as an inert refrigerant e.g. storage of semen for artificial insemination."
+            - "Due to its inert nature, it is used in food preservation, particularly for canned products, i.e., it prevents the combination of oxygen and oil which tends to enhance rusting."
+            - "It is used in oil field operation called enhanced oil recovery where it helps to force oil from subterranean deposits."
+          Marks: 1
+  QuestionNumber: 7
+  Marks: 9
