@@ -30,7 +30,7 @@ def main():
             for key in subject:
                 subject_path = subject.get(key)
                 res = validate_yaml(subject_path)
-                subject_path = subject_path.split('/')[1]
+                subject_path = subject_path.split('/')[4]
                 print('{} ********** {}'.format(subject_path, 'Ok' if res else 'Failed'))
         print("\n")
 
