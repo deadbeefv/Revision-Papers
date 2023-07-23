@@ -1,8 +1,9 @@
 - Question: "Answer the following questions"
   Subquestions:
-    - Subquestion: "a) Consider the following reaction:
-      A2(g) + B2(g) -> 2AB(g), ΔH = +75 kJ
-      Sketch an energy level diagram showing the relative activation energies for the catalyzed and uncatalyzed reactions using the axes below."
+    - Subquestion: |
+        a) Consider the following reaction:
+        A2(g) + B2(g) -> 2AB(g), ΔH = +75 kJ
+        Sketch an energy level diagram showing the relative activation energies for the catalyzed and uncatalyzed reactions using the axes below."
       Marks: 2
       Answer: 
         Image: assets/chemistry.pp2.q1.png
