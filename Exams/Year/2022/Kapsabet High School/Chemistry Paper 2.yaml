@@ -77,9 +77,9 @@
 - Question: "Answer the following questions"
   Subquestions:
     - Subquestion: |
-        "a) The fermentation of glucose is catalysed by enzymes from yeast. Yeast is added to aqueous glucose, the solution starts to bubble and becomes cloudy as more yeast cells are formed." 
-        "C6H12O6(aq)  ->  2C2H5OH(aq)+2CO2(g)"
-        "The reaction is exothermic. Eventually, the fermentation stops when the concentration of ethanol is about 12%."
+        a) The fermentation of glucose is catalysed by enzymes from yeast. Yeast is added to aqueous glucose, the solution starts to bubble and becomes cloudy as more yeast cells are formed. 
+        C6H12O6(aq)  ->  2C2H5OH(aq)+2CO2(g)
+        The reaction is exothermic. Eventually, the fermentation stops when the concentration of ethanol is about 12%.
       Subquestions:
         - Subquestion: "(i) On a large scale, the reaction mixture is cooled. Suggest a reason why this is necessary."
           Answer: "To kill yeast or denature enzymes (due to an increase in temperature)"
