@@ -96,10 +96,10 @@
   QuestionNumber: 9
 
 - Question: |
-    "On 1st January 2017 Mr. Nyachae started a business with Ksh. 10,000 in cash. The following transactions took place during the first week of his business commencing"
-    "2nd January	Deposited Sh. 5,000 in the bank"
-    "3rd January	Purchased stationery worth Sh. 1,000 in cash."
-    "4th January	Bought goods worth Sh. 2,000 by cheque"
+    On 1st January 2017 Mr. Nyachae started a business with Ksh. 10,000 in cash. The following transactions took place during the first week of his business commencing
+    2nd January	Deposited Sh. 5,000 in the bank
+    3rd January	Purchased stationery worth Sh. 1,000 in cash.
+    4th January	Bought goods worth Sh. 2,000 by cheque
   Answer: |
     T-Accounts:
 
@@ -201,11 +201,11 @@
   QuestionNumber: 15
   
 - Question: |
-    "Identify the type of communication described below."
-    "a) Principal addressing students on assembly"
-    "b) Rumors going round that the most hardworking employee will be awarded"
-    "c) Student group discussion in a class"
-    "d) An employee seeking permission"
+    Identify the type of communication described below.
+    a) Principal addressing students on assembly
+    b) Rumors going round that the most hardworking employee will be awarded
+    c) Student group discussion in a class
+    d) An employee seeking permission
   Answer:
     - "a) Principal addressing students on assembly: Downward communication."
     - "b) Rumors going round that the most hardworking employee will be awarded: Informal communication."
@@ -251,11 +251,11 @@
   QuestionNumber: 19
 
 - Question: |
-    "Classify the following accounts into personal, private, real or nominal."
-    "a) Office equipment"
-    "b) Debtor"
-    "c) Capital"
-    "d) Salaries"
+    Classify the following accounts into personal, private, real or nominal.
+    a) Office equipment
+    b) Debtor
+    c) Capital
+    d) Salaries
   Answer:
     - "Office equipment: Real account."
     - "Debtor: Personal account."
