@@ -141,7 +141,7 @@
         - Subquestion: "(ii) Potassium"
           Answer: "Potassium ions (K+)"
           Marks: 0.5
-  Question Number: 14
+  QuestionNumber: 14
   Marks: 1
   Section: A
 
@@ -174,7 +174,7 @@
     - Subquestion: "b) Stooking"
       Answer: "- Cutting maize and arranging it vertically in groups in the field (OWTTE)"
       Marks: 1
-  Question Number: 17
+  QuestionNumber: 17
   Marks: 2
   Section: A
 
@@ -218,7 +218,7 @@
         - "Suitable light intensity"
         - "Leaf area"
       Marks: 3
-  Question Number: 20
+  QuestionNumber: 20
   Marks: 4
   Section: B
 
@@ -235,7 +235,7 @@
     - Subquestion: "c) Name the property of soil being investigated."
       Answer: "- Soil texture"
       Marks: 1
-  Question Number: 21
+  QuestionNumber: 21
   Marks: 4
   Section: B
 
@@ -255,7 +255,7 @@
         - "Water"
         - "Human activities"
       Marks: 1
-  Question Number: 22
+  QuestionNumber: 22
   Marks: 4
   Section: B
 
@@ -270,7 +270,7 @@
         - "Cheap to establish and maintain"
         - "Require little skills"
       Marks: 2
-  Question Number: 23
+  QuestionNumber: 23
   Marks: 3
   Section: B
 
@@ -293,7 +293,7 @@
         - "Difficult to quantify nutrients contained"
         - "Can only be used if fully decomposed"
       Marks: 3
-  Question Number: 24
+  QuestionNumber: 24
   Marks: 12
   Section: B
 
@@ -344,7 +344,7 @@
         - "Land tenure system."
         - "Profit margin in relation to price fluctuation."
       Marks: 4
-  Question Number: 25
+  QuestionNumber: 25
   Marks: 20
   Section: C
 
@@ -388,7 +388,7 @@
         - "Practice proper field hygiene/rogueing the infected plants."
         - "Plant resistant varieties."
       Marks: 4
-  Question Number: 26
+  QuestionNumber: 26
   Marks: 20
   Section: C
 
@@ -432,6 +432,6 @@
         - "Sort out diseased berries before delivering to the factory to avoid pulping problems."
         - "Deliver cherries to the processing factory on the day of harvesting."
       Marks: 4
-  Question Number: 27
+  QuestionNumber: 27
   Marks: 20
   Section: C

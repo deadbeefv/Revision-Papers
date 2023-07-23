@@ -212,7 +212,7 @@
       Answer: "- Wire strainer/monkey strainer."
       Marks: 1
   Image: "assets/agriculture.pp2.q21.png"
-  Question Number: 21
+  QuestionNumber: 21
   Marks: 5
   Section: B
 
@@ -234,7 +234,7 @@
         - "After work, the plane iron is drawn back, and the plane is placed on its side in the tool rack."
       Marks: 2
   Image: "assets/agriculture.pp2.q22.png"
-  Question Number: 22
+  QuestionNumber: 22
   Marks: 5
   Section: B
 
@@ -261,7 +261,7 @@
           Answer: "- Providing green vegetation/green vegetables to the birds."
           Marks: 1
   Image: "assets/agriculture.pp2.q23.png"
-  Question Number: 23
+  QuestionNumber: 23
   Marks: 4
   Section: B
 
@@ -283,7 +283,7 @@
         - "Cooling/storage."
       Marks: 2
   Image: "assets/agriculture.pp2.q23.png"
-  Question Number: 24
+  QuestionNumber: 24
   Marks: 5
   Section: B
 
@@ -317,7 +317,7 @@
         - "The type of food eaten by the animal - The volatile fatty acids produced in the rumen of the animal influence the composition of milk. Propionic acid is from grain feeds, while acetic acid is from roughages. An animal eating large quantities of roughages produces milk with high fats, proteins, and lactose compared to an animal fed on a lot of grains."
         - "Other factors - For example, diseases like mastitis reduce lactose composition, and animals under treatment may be affected."
       Marks: 10
-  Question Number: 25
+  QuestionNumber: 25
   Marks: 20
   Section: C
 
@@ -352,7 +352,7 @@
         - "Starving the ticks to death by keeping the animals away from infested pastures through rotational grazing."
         - "Hand picking the ticks from livestock and killing them (de-ticking)."
       Marks: 10
-  Question Number: 26
+  QuestionNumber: 26
   Marks: 20
   Section: C
 
@@ -403,6 +403,6 @@
         "x = 150 kg (ground maize)"
         "(200 - x) = (200 - 150) = 50 kg (fishmeal)"
       Marks: 5
-  Question Number: 27
+  QuestionNumber: 27
   Marks: 20
   Section: A
