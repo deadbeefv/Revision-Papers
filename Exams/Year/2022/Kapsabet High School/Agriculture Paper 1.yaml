@@ -218,6 +218,7 @@
         - "Suitable light intensity"
         - "Leaf area"
       Marks: 3
+  Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp1.q20.png"
   QuestionNumber: 20
   Marks: 4
   Section: B
@@ -235,6 +236,7 @@
     - Subquestion: "c) Name the property of soil being investigated."
       Answer: "- Soil texture"
       Marks: 1
+  Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp1.q21.png"
   QuestionNumber: 21
   Marks: 4
   Section: B
@@ -255,6 +257,7 @@
         - "Water"
         - "Human activities"
       Marks: 1
+  Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp1.q22.png"
   QuestionNumber: 22
   Marks: 4
   Section: B
@@ -270,6 +273,7 @@
         - "Cheap to establish and maintain"
         - "Require little skills"
       Marks: 2
+  Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp1.q23.png"
   QuestionNumber: 23
   Marks: 3
   Section: B
@@ -293,6 +297,7 @@
         - "Difficult to quantify nutrients contained"
         - "Can only be used if fully decomposed"
       Marks: 3
+  Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp1.q24.png"
   QuestionNumber: 24
   Marks: 12
   Section: B
