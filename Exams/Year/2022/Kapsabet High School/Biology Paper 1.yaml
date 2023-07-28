@@ -76,7 +76,7 @@
   QuestionNumber: 8
 
 - Question: "A Form 3 student carried out an experimental set up as shown below."
-  Image: "assets/biology.pp1.q9.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q9.png"
   Subquestions:
     - Subquestion: "(a) What was the aim of the experiment?"
       Answer: "To show CO2 is produced during respiration in plants"
@@ -109,7 +109,7 @@
   QuestionNumber: 11
 
 - Question: "The diagram below represents a simplified trend of nitrogen circulation in an ecosystem."
-  Image: "assets/biology.pp1.q12.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q12.png"
   Subquestions:
     - Subquestion: "(a) What is the description term applied to each of the organisms A and D?"
       Answer:
@@ -132,7 +132,7 @@
   Marks: 9
 
 - Question: "The diagram below is a summary of the sequence of blood flow through the heart and associated blood vessels."
-  Image: "assets/biology.pp1.q13.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q13.png"
   Subquestions:
     - Subquestion: "(a) Name the blood vessels labelled A and E."
       Answer:
@@ -174,7 +174,7 @@
   Marks: 2
 
 - Question: "The diagram below shows a foetus in the uterus."
-  Image: "assets/biology.pp1.q16.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q16.png"
   Subquestions:
     - Subquestion: "(a) Name two substances that will be at a higher concentration at Y than at X."
       Answer:
@@ -237,7 +237,7 @@
   QuestionNumber: 19
 
 - Question: "The photograph below shows a bone from an animal."
-  Image: "assets/biology.pp1.q20.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q20.png"
   Subquestions:
     - Subquestion: "(a) (i) Identify the bone shown."
       Answer: "Thoracic vertebra"
@@ -262,7 +262,7 @@
   Marks: 6
 
 - Question: "The photograph below shows a potted plant in a horizontal position."
-  Image: "assets/biology.pp1.q21.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp1.q21.png"
   Subquestions:
     - Subquestion: "(a) Name the type of response shown."
       Answer: "(Negative) Geotropism"

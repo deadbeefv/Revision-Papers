@@ -2,7 +2,7 @@
   Subquestions:
     - Subquestion: "i) Represent the three dyes on a round paper chromatography."
       Answer:
-        Image: "assets/chemistry.pp1.q1.png"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q1.png"
       Marks: 2
     - Subquestion: "ii) Name one industrial application of chromatography."
       Answer: "Detecting/identifying poisonous substances present in food substances/purifying natural"
@@ -25,7 +25,7 @@
   Marks: 3
 
 - Question: "Study the set up below and use it to answer the questions that follow."
-  Image: "assets/chemistry.pp1.q3.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q3.png"
   Subquestions:
     - Subquestion: "a) What physical property of calcium metal is demonstrated in the diagram above?"
       Answer: "Denser than water"
@@ -45,7 +45,7 @@
       Marks: 1
     - Subquestion: "ii) Draw the structural formula and name the fourth member of the homologous series to which the hydrocarbon belongs?"
       Answer: 
-        Image: "assets/chemistry.pp1.q4.png"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q4.png"
       Marks: 2
   QuestionNumber: 4
   Marks: 3
@@ -57,7 +57,7 @@
   Marks: 2
 
 - Question: "The diagram below represents a cross section of the apparatus used to extract sulphur from its deposits. Study it and answer the questions that follow."
-  Image: "assets/chemistry.pp1.q6.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q6.png"
   Subquestions:
     - Subquestion: "a) State the role of the substance that is passed through"
       Subquestions:
@@ -157,7 +157,7 @@
   Marks: 2
 
 - Question: "Study the diagram below and answer the questions that follow:"
-  Image: "assets/chemistry.pp2.q16.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q16.png"
   Subquestions:
     - Subquestion: "a) (ii) Name one chemical and one physical property of hydrogen being demonstrated in the set-up above."
       Answer: "Burns in air/Reacts with air when burnt"
@@ -175,7 +175,7 @@
   Marks: 4
 
 - Question: "The diagram below shows a simple distillation to separate water and ethanol."
-  Image: "assets/chemistry.pp1.q17.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q17.png"
   Subquestions:
     - Subquestion: "a) State one of the conditions for the above process to take place."
       Answer: "Two liquids must be miscible or two liquids must have different boiling points."
@@ -218,15 +218,15 @@
       Answer: "To ensure all the acid has reacted."
       Marks: 1
     - Subquestion: "b) On the graph below sketch and label the curves of the volumes of Carbon (IV) Oxide produced against time."
-      Image: "assets/chemistry.pp1.q20.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q20.png"
       Answer:
-        Image: "assets/chemistry.pp1.q20a.png"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q20a.png"
       Marks: 2
   QuestionNumber: 20
   Marks: 3
 
 - Question: "The figure below is an energy level diagram for the reaction. Explain how the following conditions would affect the yield of AB."
-  Image: "assets/chemistry.pp1.q21.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q21.png"
   Subquestions:
     - Subquestion: "i) Increase in pressure."
       Answer: 
@@ -255,7 +255,7 @@
   Marks: 4
 
 - Question: "The scheme below shows some reaction sequence starting with solid M."
-  Image: "assets/chemistry.pp1.q23.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q23.png"
   Subquestions:
     - Subquestion: "a) Name solid M."
       Answer: "Zinc Metal"
@@ -292,7 +292,7 @@
 
 - Question: "Draw a well-labelled diagram of a setup used to prepare and collect dry Sulphur IV oxide."
   Answer:
-    Image: "chemistry.pp1.q27.png"
+    Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q27.png"
   Marks: 3
   QuestionNumber: 27
 

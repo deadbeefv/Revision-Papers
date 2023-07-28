@@ -6,7 +6,7 @@
         Sketch an energy level diagram showing the relative activation energies for the catalyzed and uncatalyzed reactions using the axes below."
       Marks: 2
       Answer: 
-        Image: assets/chemistry.pp2.q1.png
+        Image: Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q1.png
     - Subquestion: "b) Given that: ΔHf (Al2O3) = -1590 kJmol-1, ΔHf (Cr2O3) = -1134 kJmol-1 Calculate the heat of reaction for Al2O3(s) + Cr2O3(s) -> Al2O3(s) + 2CrO2(s)"
       Answer: 
         - "ΔH = ΔHf (products) - ΔHf (reactants)"
@@ -36,7 +36,7 @@
   Marks: 11
 
 - Question: "Two half cells were connected as shown to form a voltaic cell. The reduction potentials are given"
-  Image: "assets/chemistry.pp2.q2.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q2.png"
   Subquestions:
     - Subquestion: "a) Calculate the e.m.f of the cell."
       Answer: "EREDOX = ERED - EOX = -0.13 - (-0.44) = +0.31V"
@@ -94,14 +94,14 @@
       Subquestions:
         - Subquestion: "(i) Determine the empirical formula of compound X."
           Answer:
-            Image: "assets/chemistry.pp2.q3b.png"
+            Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q3b.png"
           Marks: 2
         - Subquestion: "(ii) Compound X has a relative molecular mass of 88. Draw the structural formula of compound X."
           Answer:
-            Image: "assets/chemistry.pp2.q3b.i.png"
+            Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q3b.i.png"
           Marks: 2
     - Subquestion: "c) The table below gives formulas of three organic compounds A, B, and CH. Giving a reason in each case, select the letter(s) which represent a compound that "
-      Image: "assets/chemistry.pp2.q3c.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q3c.png"
       Subquestions:
         - Subquestion: "i) Decolourizes acidified potassium manganate (VII)."
           Answer: "B Its an alkanol hence oxidized to alkanoic acid"
@@ -113,11 +113,11 @@
           Answer: "C its saturated"
           Marks: 1
     - Subquestion: "d) The following is a small reaction of polystyrene polymer. Study it and answer the questions that follow."
-      Image: "assets/chemistry.pp2.q3.d.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q3.d.png"
       Subquestions:
         - Subquestion: "(i) Draw the structure of the monomer unit of polystyrene."
           Answer:
-            Image: "assets/chemistry.pp2.q3.d.i.PNG"
+            Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q3.d.i.PNG"
           Marks: 1
         - Subquestion: "(ii) Calculate the number of monomers used to form the polystyrene of a relative molecular mass of 18096. (H = 1, C = 12)"
           Answer: "18096 / 104 = 174 monomers"
@@ -129,11 +129,11 @@
   Subquestions:
     - Subquestion: "a) Complete the table above for 1/time."
       Answer:
-        Image: "assets/chemistry.pp2.q4a.PNG"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4a.PNG"
       Marks: 4
     - Subquestion: "b) Plot a graph of rate i.e 1/time against concentration."
       Answer: 
-        Image: "assets/chemistry.pp2.q4b.PNG"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4b.PNG"
       Marks: 3
     - Subquestion: "c) From your graph, determine the concentration needed to produce 50cm3 of hydrogen gas when time is 15.0 seconds."
       Answer: "Concentration needed = 1.1625 [units]"
@@ -164,7 +164,7 @@
 - Question: "Answer the questions below."
   Subquestions:
     - Subquestion: "I) The table below shows properties of some elements represented by symbols W, X, Y, and Z. Study the information in the table and answer the questions that follow"
-      Image: "assets/chemistry.pp2.q5i.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q5i.png"
       Subquestions:
         - Subquestion: "a) Write down the electron arrangement for elements W and X."
           Answer:
@@ -183,7 +183,7 @@
           Answer: "Used in making neon advertising colored signs, high voltage indicators, gas lasers, and as an economical refrigerant (liquid helium)."
           Marks: 1
     - Subquestion: "II. The section below represents part of the periodic table. Study it and answer the questions that follow. The letters are not the actual symbol of the elements."
-      Image: "assets/chemistry.pp2.q5ii.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q5ii.png"
       Subquestions:
         - Subquestion: "a) Select the most reactive non-metal."
           Answer: "M"
@@ -201,7 +201,7 @@
   Marks: 11
 
 - Question: "Extraction of iron involves two main processes, smelting and refining. Below is the blast furnace which is used to smelt iron from its ore."
-  Image: "assets/chemistry.pp2.q6.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q6.png"
   Subquestions:
     - Subquestion: "a) (i) The chief ore is Haematite. Name one other ore used in the extraction of iron."
       Answer: "Magnetite / Siderite"
@@ -255,7 +255,7 @@
           Answer: "Cu(OH)2(s) + 4NH3(aq) → [Cu(NH3)4]2+(aq) + 2OH–(aq)"
           Marks: 1
     - Subquestion: "b) Study the flow chart below and answer questions that follow:"
-      Image: "assets/chemistry.pp2.q7b.png"
+      Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q7b.png"
       Subquestions:
         - Subquestion: "i) State one source of gas B"
           Answer: "Fractional distillation of liquid air"

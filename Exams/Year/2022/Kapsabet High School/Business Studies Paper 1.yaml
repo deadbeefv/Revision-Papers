@@ -48,7 +48,7 @@
   QuestionNumber: 4
 
 - Question: "The following balances were extracted from the books of Kariuki traders on 31st March 2018. Determine the net worth of the business as at 31st March 2018."
-  Image: "assets/business.pp1.q5.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/business.pp1.q5.png"
   Answer: "Net worth = Total Assets - Total Liabilities = 423,700 - 209,500 = 214,200"
   Marks: 4
   QuestionNumber: 5
@@ -63,7 +63,7 @@
   QuestionNumber: 6
 
 - Question: "Indicate the type of journal in which each of the following transactions would be recorded."
-  Image: "assets/business.pp1.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/business.pp1.png"
   Answer:
     - "i) Goods previously sold on credit were returned: Sales returned journal."
     - "ii) Goods bought on credit: Sales journal."
