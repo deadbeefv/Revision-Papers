@@ -157,7 +157,7 @@
   Marks: 2
 
 - Question: "Study the diagram below and answer the questions that follow:"
-  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q16.png"
+  Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q16.png"
   Subquestions:
     - Subquestion: "a) (ii) Name one chemical and one physical property of hydrogen being demonstrated in the set-up above."
       Answer: "Burns in air/Reacts with air when burnt"
@@ -288,13 +288,13 @@
 - Question: "Compare the electrical conductivity of dilute Sulfuric (VI) acid and concentrated Sulfuric (VI) acid. Explain your answer."
   Answer: "Dilute Sulfuric (VI) acid has a higher electrical conductivity than concentrated Sulfuric (VI) acid. This is because dilute Sulfuric (VI) acid has more ions in solution compared to concentrated Sulfuric (VI) acid."
   Marks: 2
-  QuestionNumber: 26
+  QuestionNumber: 25
 
 - Question: "Draw a well-labelled diagram of a setup used to prepare and collect dry Sulphur IV oxide."
   Answer:
     Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp1.q27.png"
   Marks: 3
-  QuestionNumber: 27
+  QuestionNumber: 26
 
 - Question: "The molar heat of formation of carbon (II) oxide is -105 kJ/mol, the molar heat of combustion of carbon is -393 kJ/mol. By using an energy cycle diagram, determine the molar heat of combustion of carbon (II) oxide."
   Answer:
@@ -303,7 +303,7 @@
     - "ΔHθc = -393 - 105"
     - "The molar heat of combustion of carbon (II) oxide is -188 kJ/mol."
   Marks: 3
-  QuestionNumber: 28
+  QuestionNumber: 27
 
 - Question: "In an experiment, a small amount of charcoal was added into a test tube and 5cm3 of concentrated nitric (V) acid added, then warmed."
   Subquestions:
@@ -316,5 +316,5 @@
     - Subquestion: "(iii) Write an equation for the reaction that took place."
       Answer: "C(s) + HNO3(l) -> 4NO2(g) + CO2(g) + 2H2O(l)"
       Marks: 1
-  QuestionNumber: 29
+  QuestionNumber: 28
   Marks: 3
