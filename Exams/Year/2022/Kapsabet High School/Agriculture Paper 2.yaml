@@ -202,11 +202,12 @@
       Answer: "- Barbed wire fence."
       Marks: 1
     - Subquestion: "b) On the illustration, show by drawing how the corner post should be supported."
-      Answer: # [Add a drawing of how the corner post should be supported]
+      Answer:
+        Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp2.q21.b.png"
       Marks: 1
     - Subquestion: "c) On the illustration, draw, label, and give the function of a dropper."
-      Answer: # [Add a drawing of the dropper, label it, and provide the function]
-      Image: ""
+      Answer:
+        Image: "Exams/Year/2022/Kapsabet High School/assets/agriculture.pp2.q21.c.png"
       Marks: 2
     - Subquestion: "d) Name the correct tool for tightening the wire during construction of the fence."
       Answer: "- Wire strainer/monkey strainer."

@@ -62,8 +62,12 @@
   Marks: 4
   QuestionNumber: 6
 
-- Question: "Indicate the type of journal in which each of the following transactions would be recorded."
-  Image: "Exams/Year/2022/Kapsabet High School/assets/business.pp1.PNG"
+- Question: |
+    Indicate the type of journal in which each of the following transactions would be recorded.
+    i)	Sales returned journal
+    ii)	Sales journal
+    iii)	Cash receipt journal
+    iv)	General journal
   Answer:
     - "i) Goods previously sold on credit were returned: Sales returned journal."
     - "ii) Goods bought on credit: Sales journal."
