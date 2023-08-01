@@ -13,7 +13,15 @@
         - "ΔH = [(-1134 kJmol-1) + (-1590 kJmol-1)] - [(-1590 kJmol-1) + (-1134 kJmol-1)]"
         - "ΔH = -2724 kJmol-1"
       Marks: 2
-    - Subquestion: "c) The following data was obtained during an experiment"
+    - Subquestion: |
+        c) The following data was obtained during an experiment:
+        
+        Mass of ethanol burnt 			   =	0.2g
+        Mass of water in the calorimeter 	= 	200g
+        Specific heat capacity of water	   = 	4.2 jg-1k-1
+        Initial temperature of water 		=	23.5 0C
+        Final temperature of water 		=	28.0 0C
+
       Subquestions:
         - Subquestion: "i) How was the mass of ethanol that burnt determined?"
           Answer: "By subtracting the mass of the burner and ethanol before igniting from the mass of the burner and ethanol after the burning"
