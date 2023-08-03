@@ -52,9 +52,9 @@
   Section: A
 
 - Question: "Polydactyl is a genetic disorder in which people inherit an extra digit. Polydactyl is caused by a dominant allele (B). The table below describes the different genotypes for polydactyl."
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp2.q3a.png"
   Subquestions:
     - Subquestion: "a) Complete the table below by giving the correct genotype, alleles of each genotype, and the expected number of fingers per hand."
-      Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp2.q3a.png"
       Answer:
         - "Genotype: Homozygous dominant"
         - "Alleles: BB"
@@ -81,6 +81,7 @@
   Section: A
 
 - Question: "Kenyan pondweed (Elodea kenyiensis) is a common water plant that produces tiny air bubbles of oxygen during photosynthesis. The number of bubbles produced per minute indicates the rate of photosynthesis. The graph shows how the rate of photosynthesis in the pondweed relates to light intensity."
+  Image: "Exams/Year/2022/Kapsabet High School/assets/biology.pp2.q4.png"
   Subquestions:
     - Subquestion: "a) Write the equation to account for the air bubbles."
       Answer: "Water -> Hydrogen atoms + Oxygen"
