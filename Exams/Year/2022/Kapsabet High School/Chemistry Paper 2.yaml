@@ -249,7 +249,11 @@
 
 - Question: "Answer the following questions"
   Subquestions:
-    - Subquestion: "a) Read the following passage and answer the questions."
+    - Subquestion: |
+        a) Read the following passage and answer the questions.
+
+        A salt K was heated with slaked lime (calcium hydroxide). A colourless gas L with a characteristic smell and turns red litmus paper blue was evolved. 
+        A large quantity of this gas was passed through an inverted filter funnel into Copper(II)sulphate solution, and a deep blue solution M was obtained. 
       Subquestions:
         - Subquestion: "a) Identify gas L"
           Answer: "Ammonia"
