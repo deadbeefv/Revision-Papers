@@ -138,11 +138,11 @@
   Subquestions:
     - Subquestion: "a) Complete the table above for 1/time."
       Answer:
-        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4a.PNG"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4a.png"
       Marks: 4
     - Subquestion: "b) Plot a graph of rate i.e 1/time against concentration."
       Answer: 
-        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4b.PNG"
+        Image: "Exams/Year/2022/Kapsabet High School/assets/chemistry.pp2.q4b.png"
       Marks: 3
     - Subquestion: "c) From your graph, determine the concentration needed to produce 50cm3 of hydrogen gas when time is 15.0 seconds."
       Answer: "Concentration needed = 1.1625 [units]"
