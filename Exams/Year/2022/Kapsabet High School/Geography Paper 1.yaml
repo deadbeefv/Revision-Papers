@@ -1,0 +1,197 @@
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) Define the term Geography"
+      Answer: "Is the descriptive study of the distribution and inter-relationship of natural and human phenomena on the earth’s surface."
+      Marks: 2
+    - Subquestion: "b) What is the relationship between Geography and Biology"
+      Answer: "Biology applies geographical information to explain factors determining the distribution of organisms."
+      Marks: 2
+  QuestionNumber: 1
+  Marks: 4
+  Section: A
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a) Use the diagram below to answer the following questions"
+      Image: Exams/Year/2022/Kapsabet High School/assets/geography.pp1.q2.png
+    - Subquestions:
+      - Subquestion: "i) Name the air currents marked E"
+        Answer: "Sea breeze"
+        Marks: 1
+      - Subquestion: "ii) Why does the air current marked F flow at night"
+        Answer: "At night, land loses heat faster than the sea. Air over the land becomes cooler and heavier than that over the sea. The relatively warmer air over the sea is lighter and rises, while the cooler, heavier air over the land flows towards the sea to replace the rising air."
+        Marks: 3
+    - Subquestion: "b) Give a reason why air cools as it rises"
+      Answer: "As air rises, it expands, spreading out its molecules over a wider area, and thus becomes cooler."
+      Marks: 2
+  QuestionNumber: 2
+  Marks: 6
+  Section: A
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "(a) Define folding"
+      Answer: "Folding is the bending of rocks in the Earth's crust due to tectonic forces during earth movement."
+      Marks: 2
+    - Subquestion: "b) List four types of folds"
+      Answer:
+        - "Simple / Symmetrical fold"
+        - "Asymmetrical / Monoclinal fold"
+        - "Overfold"
+        - "Isoclinal"
+        - "Recumbent"
+        - "Nappe"
+        - "Anticlinorium and Synclinorium complex"
+      Marks: 4
+  QuestionNumber: 3
+  Marks: 6
+  Section: A
+
+- Question: "The diagram below illustrates a mass wasting process. Use it to answer question (a) and (b)"
+  Image: Exams/Year/2022/Kapsabet High School/assets/geography.pp1.q4.png
+  Subquestions:
+    - Subquestion: "a) Identify the process"
+      Answer: "Soil Creep"
+      Marks: 1
+    - Subquestion: "b) Explain how the process occurs"
+      Answer:
+        - "Occurs on gentle slopes."
+        - "The air along the gentle slope undergoes some disturbance/stress."
+        - "This causes continuous steady/intermittent movement of the soil down the slope."
+      Marks: 3
+  QuestionNumber: 4
+  Marks: 4
+  Section: A
+
+- Question: "Answer the following questions about rivers"
+  Subquestions:
+    - Subquestion: "a) What is a river profile"
+      Answer: "It’s the entire length of the river’s course from its source to its mouth."
+      Marks: 2
+    - Subquestion: "b) Name the three stages of a river profile"
+      Answer:
+        - "Youthful/Upper stage"
+        - "Mature/Middle stage"
+        - "Old/Lower stage"
+      Marks: 3
+  QuestionNumber: 5
+  Marks: 5
+  Section: A
+
+- Question: "Answer the following questions"
+  Subquestions:
+    - Subquestion: "a.i) Give the latitudinal and the longitudinal position of the southwest corner of the map extract"
+      Answer:
+        - "Latitude: 0º 30'S"
+        - "Longitude: 36º 45'E"
+      Marks: 2
+    - Subquestion: "ii) Calculate the magnetic declination of the map extract"
+      Answer: "1º 31'"
+      Marks: 2
+    - Subquestion: "b.i) Which adjoining sheet is to the S.E of the area covered by the map?"
+      Answer: "Fort Hall (Muranga)"
+      Marks: 1
+    - Subquestion: "ii) What is the general flow of river Chanya?"
+      Answer: "Eastwards / West to East"
+      Marks: 2
+    - Subquestion: "iii) Give three social functions of Nyeri town"
+      Answer:
+        - "Educational centre"
+        - "Religious centre"
+        - "Health centre"
+        - "Recreational centre"
+        - "Administrative centre"
+      Marks: 3
+    - Subquestion: "c) Calculate the area of Nyeri Forest to the East of Easting 69 and North of Northing 56. (Give your answer in Kilometre squared (Km2)"
+      Answer: "Area = 12 Km2"
+      Marks: 2
+    - Subquestion: "d.i) Citing evidence from the map, give two reasons why the area covered by the map is suitable for coffee growing"
+      Answer:
+        - "The area receives high rainfall suitable for crop farming, as evidenced by many permanent rivers and forest vegetation."
+        - "Gentle sloping landscape for proper drainage, as evidenced by widely spaced contours."
+        - "High altitude above 1500 meters that provides a cool condition suitable for coffee farming."
+        - "Availability of transport, as evidenced by many roads."
+        - "Availability of labor evidenced by dense settlements."
+      Marks: 4
+    - Subquestion: "ii) Citing evidence from the map, give two factors that favor saw milling in the area covered by the map"
+      Answer:
+        - "Presence of extensive forest to provide raw materials."
+        - "Availability of transport by roads for transporting sawn timber and logs."
+        - "Presence of many settlements which provide markets for products."
+      Marks: 4
+    - Subquestion: "e) Describe the drainage of the area covered by the map"
+      Answer:
+        - "The main drainage features are rivers."
+        - "There are many permanent rivers."
+        - "Most of the rivers form a dendritic drainage pattern."
+        - "The main rivers in the area are the river Chanya and Ambani."
+        - "Most of the rivers flow from Aberdare Forest."
+        - "Most of the rivers flow to the East of the area covered by the map."
+      Marks: 5
+  QuestionNumber: 6
+  Marks: 20
+  Section: B
+
+- Question: "Answer the following questions on the topic of rocks"
+  Subquestions:
+    - Subquestion: "a.i) Define the term rock"
+      Answer: "- Any naturally formed solid mineral aggregate / a naturally solid material that is composed of one or a combination of minerals."
+      Marks: 2
+    - Subquestion: "ii) Give two ways of classifying rocks"
+      Answer:
+        - "Based on their age"
+        - "Based on their chemical characteristics and physical properties"
+        - "Based on their mode of formation"
+      Marks: 2
+    - Subquestion: "b) Describe the following characteristics of minerals"
+      Subquestions:
+        - Subquestion: "• Lustre"
+          Answer: "- Minerals differ in their brightness depending on the nature of their reflective surface."
+        - Subquestion: "• Colour"
+          Answer: "- Different minerals display different colors."
+        - Subquestion: "• Hardness"
+          Answer: "- Different minerals have different degrees of hardness."
+      Marks: 6
+    - Subquestion: "ii) Give the changes that occur on sedimentary rocks when subjected to intense heat and pressure"
+      Answer:
+        - "Rocks are metamorphosed."
+        - "New minerals are formed."
+        - "Minerals recrystallize further."
+        - "Rock particles become compacted."
+        - "The physical appearance of the rock changes."
+      Marks: 4
+    - Subquestion: "c.i) State the conditions necessary for the growth of coral"
+      Answer:
+        - "Warm ocean waters"
+        - "Salty ocean waters"
+        - "Clear ocean water/silt-free"
+        - "Shallow water"
+        - "Well-oxygenated water"
+      Marks: 3
+    - Subquestion: "ii) Describe how coral rocks are formed"
+      Answer:
+        - "Tiny marine organisms called coral polyps live in colonies in the sea."
+        - "Polyps extract calcium from seawater to make their shells."
+        - "The polyps die, and their hard skeletons of calcium carbonate accumulate into a solid mass."
+        - "Successive colonies grow on the solid mass, thus the rock grows in size."
+        - "The spaces between the dead coral polyps are cemented by calcareous algae."
+      Marks: 4
+    - Subquestion: "d.i) List two methods of recording data you are likely to use"
+      Answer:
+        - "Filling in questionnaires"
+        - "Labeling of samples"
+        - "Taking notes"
+        - "Photographing"
+        - "Drawing sketch maps"
+      Marks: 2
+    - Subquestion: "ii) Give two follow-up activities of your study"
+      Answer:
+        - "Displaying samples of rocks"
+        - "Displaying photographs"
+        - "Writing/Giving reports"
+        - "Reading in books to gather more information"
+        - "Holding discussions"
+      Marks: 2
+  QuestionNumber: 7
+  Marks: 25
+  Section: B
