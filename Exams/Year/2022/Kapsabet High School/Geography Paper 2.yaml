@@ -82,7 +82,7 @@
 - Question: "Answer the following questions"
   Subquestions:
     - Subquestion: "(a) Differentiate between exports and imports."
-      Answer: "- Exports are goods that a country sells to other countries while imports are goods that a country procures from other countries."
+      Answer: "Exports are goods that a country sells to other countries while imports are goods that a country procures from other countries."
       Marks: 2
     - Subquestion: "(b) State three factors which influence external trade in Kenya."
       Answer:
@@ -267,13 +267,19 @@
       Subquestions:
         - Subquestion: "(i) State two objectives for their study."
           Answer:
-            - "To find out the factors that influenced the location of the plant/station."
-            - "To find out the amount of energy generated daily from the station."
+            - To find out the factors that influenced the location of the plant/station.
+            -	To find out the amount of energy generated daily from the station.
+            -	To identify/find out/establish the problems facing the station.
+            -	To investigate/determine the uses of the energy produced.
           Marks: 2
         - Subquestion: "(ii) Give two reasons why they needed a working schedule."
           Answer:
-            - "To ensure proper time management and reduce time wastage."
-            - "To ensure important areas are covered adequately."
+            -	To ensure proper time management and reduce time wastage.
+            -	To ensure important areas are covered adequately.
+            -	Ensures that one remains within the scope of the study.
+            -	Help to estimate the time required for the study.
+            -	Provides a basis for evaluating the fieldwork while it is in progress.
+
           Marks: 2
   QuestionNumber: 8
   Marks: 20
@@ -432,6 +438,6 @@
         - "Slow economic growth rate as a lot of revenue is used to meet the demands of the large population instead of investing in income-generating projects."
         - "Rural-urban migrations resulting in congestion and social evils in urban centers."
       Marks: 6
-  Question Number: 10
+  QuestionNumber: 10
   Marks: 20
   Section: B

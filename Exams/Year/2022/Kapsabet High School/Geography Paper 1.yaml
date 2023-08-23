@@ -14,13 +14,13 @@
   Subquestions:
     - Subquestion: "a) Use the diagram below to answer the following questions"
       Image: Exams/Year/2022/Kapsabet High School/assets/geography.pp1.q2.png
-    - Subquestions:
-      - Subquestion: "i) Name the air currents marked E"
-        Answer: "Sea breeze"
-        Marks: 1
-      - Subquestion: "ii) Why does the air current marked F flow at night"
-        Answer: "At night, land loses heat faster than the sea. Air over the land becomes cooler and heavier than that over the sea. The relatively warmer air over the sea is lighter and rises, while the cooler, heavier air over the land flows towards the sea to replace the rising air."
-        Marks: 3
+      Subquestions:
+        - Subquestion: "i) Name the air currents marked E"
+          Answer: "Sea breeze"
+          Marks: 1
+        - Subquestion: "ii) Why does the air current marked F flow at night"
+          Answer: "At night, land loses heat faster than the sea. Air over the land becomes cooler and heavier than that over the sea. The relatively warmer air over the sea is lighter and rises, while the cooler, heavier air over the land flows towards the sea to replace the rising air."
+          Marks: 3
     - Subquestion: "b) Give a reason why air cools as it rises"
       Answer: "As air rises, it expands, spreading out its molecules over a wider area, and thus becomes cooler."
       Marks: 2
@@ -135,7 +135,7 @@
 - Question: "Answer the following questions on the topic of rocks"
   Subquestions:
     - Subquestion: "a.i) Define the term rock"
-      Answer: "- Any naturally formed solid mineral aggregate / a naturally solid material that is composed of one or a combination of minerals."
+      Answer: "Any naturally formed solid mineral aggregate / a naturally solid material that is composed of one or a combination of minerals."
       Marks: 2
     - Subquestion: "ii) Give two ways of classifying rocks"
       Answer:
@@ -146,11 +146,11 @@
     - Subquestion: "b) Describe the following characteristics of minerals"
       Subquestions:
         - Subquestion: "• Lustre"
-          Answer: "- Minerals differ in their brightness depending on the nature of their reflective surface."
+          Answer: "Minerals differ in their brightness depending on the nature of their reflective surface."
         - Subquestion: "• Colour"
-          Answer: "- Different minerals display different colors."
+          Answer: "Different minerals display different colors."
         - Subquestion: "• Hardness"
-          Answer: "- Different minerals have different degrees of hardness."
+          Answer: "Different minerals have different degrees of hardness."
       Marks: 6
     - Subquestion: "ii) Give the changes that occur on sedimentary rocks when subjected to intense heat and pressure"
       Answer:
