@@ -127,7 +127,7 @@
   QuestionNumber: 2
   Marks: 15
 
-- Question: "3. Matumizi ya lugha"
+- Question: "Matumizi ya lugha"
   Subquestions:
     - Subquestion: "a) Tofautisha kati ya ala tuli na ala sogezi kwa kutolea mifano moja moja"
       Answer:
@@ -277,6 +277,6 @@
         - "1. Kuendesha shughuli zote katika ofisi za serikali"
         - "2. Kufundisha shuleni."
       Marks: 2
-  QuestionNumber: 3
+  QuestionNumber: 4
   Marks: 9
   Section: C
